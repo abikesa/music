@@ -1,7 +1,7 @@
 
-#### Music in Western Civilization    
-***Paul Henry Lang***
-PROFESSOR OF MUSIC, COLUMBIA UNIVERSITY
+# Music in Western Civilization    
+### *Paul Henry Lang*
+#### PROFESSOR OF MUSIC, COLUMBIA UNIVERSITY
 
 While many books have been written about music, some dealing with the lives of composers, some describing the d evelopment of opera and symphony, and some even attempting to place the whole history of music in chronological order, almost all this literature considers music as an isolated domain of human activity. In this book Professor Lang undertakes to place music in hte general current of our civilization
 
