@@ -3,7 +3,11 @@
 ### *Paul Henry Lang*
 #### PROFESSOR OF MUSIC, COLUMBIA UNIVERSITY
 
-While many books have been written about music, some dealing with the lives of composers, some describing the d evelopment of opera and symphony, and some even attempting to place the whole history of music in chronological order, almost all this literature considers music as an isolated domain of human activity. In this book Professor Lang undertakes to place music in hte general current of our civilization
+While many books have been written about music, some dealing with the lives of composers, some describing the d evelopment of opera and symphony, and some even attempting to place the whole history of music in chronological order, almost all this literature considers music as an isolated domain of human activity. In this book Professor Lang undertakes to place music in hte general current of our civilization.
+
+Music in Western Civilization gives an entirely new insight into hte nature of musical art. The author explores the archives of human history to shed light on the forces which determined the development of music as a part of intellectual and artistic life. The spirit of each age finds expression in its music as well as in its literature, philosophy, and social life. Here are seen in turn the political and ethical conception of Greek music, the rise of Christian liturgy, the lyric poetry of the Middle Ages and the scintillating brilliance of hte Renaissance courts, the towring structure of the baroque, the classical school of hte eighteenth century, and sociological ramifications of modern music.
+
+Here is the great history of music for the modern reader. It supplies the necessary setting for the evolution of the art of music and will enable the reader to comprehend the role and place of music in intellectual history, to see its influence on religion, to go beyond the usual meagger tecbical refences and complete the picture of the organization of human society in which msuci and musicians play such a conspicuous part. The publishers feel that his is the most important musical work yet to appear under their imprint, an outstanding contribution to the musiscal literature of our time.
 
 ---
 
