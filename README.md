@@ -18,7 +18,7 @@
 
 [Tiny Desk Concerts](https://en.wikipedia.org/wiki/List_of_Tiny_Desk_Concerts) has previously drawn `criticism` for narrowness in the musical `genres` it includes-— described as focused on "hipster-infused indie rock" by Zachary Crockett at Vox -—to the exclusion of genres like country and hip-hop. However, the series' musical focus has broadened in scope over `time`
 
-   ---
+---
 
 ```
     1. Genres
@@ -37,12 +37,12 @@
    - 7th/Blues/Churchy/Romantic
    - 9th/Soul/Modern
    - 11th/RnB/Film
-   - 13th/Jazz/Etc
+   - 13th/Jazz/`Revolt-Dionysian`
      
 4. History
 5. Voicing
 
-   ---
+---
 
 
 ```
