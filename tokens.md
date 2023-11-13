@@ -1,11 +1,11 @@
 1. Modes
-   - `Dorian`
-   - Ionian
-   - Phyrigian
-   - Mixolydian
+   - `Ionian`
+   - Dorian
+   - Phrygian
    - Lydian
+   - Mixolydian
    - `Aeolian`
-   - Lacracian
+   - Locrian
 
  2. Dorian & Aeolian prepondrance
     - `I`, IV
