@@ -1,8 +1,17 @@
+```
+   1. Physics vs. Meta
+                      \
+   3. Epistemology -> 2. Identity -> 5. Time -> 6. Change
+                      /
+                       4. Ontology
+```
+
+
 Given the composers you've mentioned from the Baroque and Classical periods, a suitable choice to fill the third spot from the Classical era could be Ludwig van Beethoven. Beethoven is often considered a bridge between the Classical and Romantic periods, and his compositions showcase both the precision of the Classical style and the emotional depth characteristic of the Romantic era. His work, especially his symphonies and piano sonatas, is highly regarded and influential.
 
 ---
 
-In the context of Harold Bloom's "The Anxiety of Influence," Beethoven's greatest challenge might have been the overwhelming influence of his predecessors, particularly Mozart and Haydn. Both Mozart and Haydn had left an indelible mark on the Classical music landscape, and Beethoven, emerging in their wake, faced the challenge of asserting his own artistic identity while being aware of the giants whose shoulders he stood upon.
+In the context of Harold Bloom's "The Anxiety of Influence," Beethoven's greatest challenge might have been the overwhelming influence of his predecessors, particularly Mozart and Haydn. Both Mozart and Haydn had left an indelible mark on the Classical music landscape, and Beethoven, emerging in their wake, faced the challenge of asserting his own artistic `identity` while being aware of the giants whose shoulders he stood upon.
 
 Bloom's theory suggests that artists experience a sense of anxiety or struggle in dealing with the influence of their predecessors. Beethoven, in this framework, would have grappled with the need to break free from the conventions established by Mozart and Haydn, to establish his unique voice and make a significant, original contribution to the musical canon.
 
