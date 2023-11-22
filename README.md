@@ -64,9 +64,15 @@
 2. Quality
 3. Genre
 4. `History`
-   - Antiquarian/Reverence
-   - `Monumental`/Inference
+   - Antiquarian/Reverence/Melody
+     - Vivaldi, Handel, Mozart, Schubert, Chopin
+     - [Noun](https://www.youtube.com/watch?v=r_fxB6yrDVo&t=479s) 18:18/1:36:32
+   - `Monumental`/Inference/Harmony
+     - Bach, Haydn, Ludwig, Wagner
+     - Adjective
    - Critical/Deliverence
+     - Riley, Mosley, Jerkins
+     - Verb
      
 5. Voicing
    
