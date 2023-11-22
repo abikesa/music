@@ -10,9 +10,17 @@
 2. Quality
 3. Genre
 4. `History`
-   - Antiquarian/Reverence
-   - Monumental/Inference
-   - `Critical`/Deliverence
+   - Antiquarian/Reverence/`Melody`
+     - Beethoven under the [anxiety of influence](https://en.wikipedia.org/wiki/The_Anxiety_of_Influence) (think: Vivaldi, Handel, Mozart) dispenses with Melody
+     - Schubert & Chopin successfuly resists this influence while selectively expressing reverence for Beethoven
+   - Monumental/Inference/`Chords`
+     - Evolution of genres viewed under evolution of harmony
+     - Birds do melody, but takes thousands of years of [evolution for humans to reach dyads](https://www.youtube.com/watch?v=8fHi36dvTdE)
+     - And then pace is exponential to triad, 7th, 9th, 11th, 13th
+   - `Critical`/Deliverence/`Rhythm`
+     - Teddy Riley, Darkchild, Timbaland, and the African diaspora are a refutation of this narrative
+     - Here syncopation proves in itself to be sublime
+     - [Dangerous](https://www.youtube.com/watch?v=jr9uliNQwNA), [Jam](https://www.youtube.com/watch?v=JbHI1yI1Ndk); [Wrapped Up](https://www.youtube.com/watch?v=Vf2bsErnO0Q), [Its not right](https://www.youtube.com/watch?v=6J538b-OLRU); [One in a Million](https://www.youtube.com/watch?v=KKSz4NE6PwY), etc
      
 5. Voicing
 
