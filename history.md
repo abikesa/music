@@ -1,3 +1,4 @@
+
 ```
    1. Physics vs. Meta
                       \
@@ -6,7 +7,84 @@
                        4. Ontology
 ```
 
+Creating a weighted average based on specific criteria involves assigning weights to each criterion and then calculating a composite score. For simplicity, let's assume equal weight for each criterion: melody (phonology), syntax (harmony, rhythm, variations), and meaning (intrinsic, extrinsic). The scores are arbitrary and subjective, as this is a hypothetical exercise. The total weight for each composer is 3.
 
+Here's a table using equal weights:
+
+| Rank | Composer                  | Phonology | Syntax | Meaning | Weighted Average |
+|------|---------------------------|--------|--------|---------|-------------------|
+| 1    | Johann Sebastian Bach    | 9      | 8      | 7       | 8.0               |
+| 2    | Wolfgang Amadeus Mozart   | 8      | 9      | 8       | 8.3               |
+| 3    | Ludwig van Beethoven      | 7      | 9      | 9       | 8.3               |
+| 4    | Franz Schubert            | 8      | 7      | 8       | 7.7               |
+| 5    | Pyotr Ilyich Tchaikovsky  | 9      | 8      | 7       | 8.0               |
+| 6    | Johannes Brahms           | 7      | 8      | 8       | 7.7               |
+| 7    | Claude Debussy            | 9      | 7      | 8       | 8.0               |
+| 8    | Richard Wagner            | 7      | 9      | 8       | 8.0               |
+| 9    | Igor Stravinsky           | 8      | 8      | 7       | 7.7               |
+| 10   | Antonio Vivaldi           | 7      | 7      | 7       | 7.0               |
+| 11   | George Frideric Handel    | 7      | 8      | 7       | 7.7               |
+| 12   | Franz Joseph Haydn        | 7      | 7      | 7       | 7.0               |
+| 13   | Maurice Ravel             | 8      | 8      | 8       | 8.0               |
+| 14   | Frederic Chopin           | 9      | 7      | 7       | 7.7               |
+| 15   | Gustav Mahler             | 7      | 8      | 8       | 7.7               |
+| 16   | Robert Schumann           | 8      | 7      | 8       | 7.7               |
+| 17   | Giuseppe Verdi            | 7      | 8      | 8       | 7.7               |
+| 18   | Dmitri Shostakovich       | 8      | 8      | 7       | 7.7               |
+| 19   | Jean Sibelius             | 7      | 7      | 7       | 7.0               |
+| 20   | Aaron Copland             | 8      | 8      | 8       | 8.0               |
+
+Again, the scores and rankings are entirely subjective and based on equal weighting for each criterion. Adjustments to weights or criteria might yield different results based on individual preferences and perspectives.
+
+
+```
+              1. Icon
+                      \
+       3. Language -> 2. Adjective -> 5. Verb -> 6. Object
+                      /
+                       4. Subject
+```
+
+1. Icon
+   - Bernstein's X-factor
+   - I think of it as Confounder
+   - Spuriously correlated between musical subjects A & B
+   - However, to err is human
+   - Thus our Human, All-Too-Human ways treat association as causation
+   - Metaphor
+     - Deep prosaic verbal structure is transformed into poetic super surface structure
+     - Various modes of transformation are employed but deletion is key
+     - When this X-factor is deleted (e.g. in Juliet is the Sun) an aesthetic ambiguity is created
+     - Its powerful because everyone, anyone can project their `meaning` onto this ambiguity
+     - And thus poetry finds more assonance than prose
+   - Besides intrinsic and extrinsic metaphor, we have analogy
+     - My misunderstanding of this type is the association a specific song may acquire with an affective part of ones history
+     - This is very much at the individual level as one may imagine
+     - Even more reason for it to acquire that mystical quality
+     - When taken together with the intrinsic and extrinsic program designs music emerges as most powerful
+     - Opera, Oratorio, Choral Symphony, Chorale are examples in which extrinsic features are explicitly linked to music
+     - Film scores do too
+       
+3. Adjective
+   - Beethoven's Pastorale Movement III
+   - Got me dancing kiganda
+   - There's something here for tonal colors he paints
+     
+5. Language
+6. Subject
+7. Verb
+8. Object
+   - The [Unanswered Question](https://en.wikipedia.org/wiki/The_Unanswered_Question) is a musical work by American composer Charles Ives
+
+
+
+```
+              1. Harmonic Series
+                                \
+                    3. Scale -> 2. Chord -> 5. Rhythm -> 6. Unanswered Question
+                                /
+                                 4. Motiv
+```
 Given the composers you've mentioned from the Baroque and Classical periods, a suitable choice to fill the third spot from the Classical era could be Ludwig van Beethoven. Beethoven is often considered a bridge between the Classical and Romantic periods, and his compositions showcase both the precision of the Classical style and the emotional depth characteristic of the Romantic era. His work, especially his symphonies and piano sonatas, is highly regarded and influential.
 
 ---
