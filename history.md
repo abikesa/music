@@ -36,6 +36,13 @@ Here's a table using equal weights:
 
 Again, the scores and rankings are entirely subjective and based on equal weighting for each criterion. Adjustments to weights or criteria might yield different results based on individual preferences and perspectives.
 
+But its notable that Bernstein's lectures were as follows:
+1. Phonology:: Bach's WTK
+2. Syntax:: Mozart's 40th
+3. Meaning:: Beethoven's 6th
+4. Extramusical:: Romantics
+5. Limits:: Wagnerite's
+
 
 ```
               1. Icon
