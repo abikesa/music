@@ -40,7 +40,7 @@ But its notable that Bernstein's lectures were as follows:
 1. Phonology:: Bach's WTK
 2. Syntax:: Mozart's 40th
 3. Meaning:: Beethoven's 6th
-4. Ambiguity:: Romantics
+4. Ambiguity:: [Hector Berlioz](https://en.wikipedia.org/wiki/Symphonie_fantastique)
 5. Limits:: [Wagnerite's](https://github.com/abikesa/music/blob/main/modes.md) & Stravinsky
 
 
