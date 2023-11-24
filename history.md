@@ -44,6 +44,9 @@ But its notable that Bernstein's lectures were as follows:
 3. Syntax:: Mozart's 40th
    - Chromaticism
    - Diatonicism contains it in the `circle of 5ths`
+   - Later in the romantic error the very structures of musical, literary, and visual arts are to be `tested`
+   - We'll have chromaticism dominating, diatonicism receding, tonal ambiguity reigning, cubism round the corner, figurative painting replaced by impressionist flood of colors, the representational object was fast disappearing with washes of color, poetry is showing a remarkable disentegration of syntax, Ulyssey will soon be published, a diffusion of meaning that intoxicates the mind, a decadent aestheticism turns the horizon mauve, Salomé, Dorian Gray, everywhere hovers a delicious vagueness, highly charged ambiguisness of symbols, Boudalaire, anti-semantic pills, dreamy, `phonology is taking over`
+     
 4. Meaning:: Beethoven's 6th
    - Intrinsic metaphors: `transformations` from deep prosaic syntactic structures to super surface poetic structures
    - Extrinsic metaphors: `pastoral` symphony & the inauguration of program music in the romantic era
