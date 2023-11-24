@@ -67,7 +67,15 @@ But its notable that Bernstein's lectures were as follows:
    - But how far can music run without finding it in unchartted terrain with a wild forest of sharps and flats?
    - Augmented 4th: diabolus in musica (Lat.). The devil in mus., i.e. the tritone. Term is derived from various church prohibitions on using this awkward interval.
    - It's the wormhole into Debussy's world
-
+     - Whole tone scale
+     - Has no 5ths
+     - Thus no circle of 5ths
+     - No traditional modulation
+     - Its self-limiting
+     - In short it is `atonal`
+     - First atonal stuff in musical history
+     - Produced the most ambiguous sounds ever heard in music
+     - Sheer phonology was becoming an end in itself at the expense of semantic clarity
 
 ```
               1. Icon
