@@ -65,6 +65,8 @@ But its notable that Bernstein's lectures were as follows:
    - Its a dizzying adventure this romantic romp
    - Shedding one inhibition after another; indulging in newer and more illicit ambiguities for nearly a century
    - But how far can music run without finding it in unchartted terrain with a wild forest of sharps and flats?
+   - Augmented 4th: diabolus in musica (Lat.). The devil in mus., i.e. the tritone. Term is derived from various church prohibitions on using this awkward interval.
+   - It's the wormhole into Debussy's world
 
 
 ```
