@@ -76,6 +76,7 @@ But its notable that Bernstein's lectures were as follows:
      - First atonal stuff in musical history
      - Produced the most ambiguous sounds ever heard in music
      - Sheer phonology was becoming an end in itself at the expense of semantic clarity
+     - [Mallarme](https://en.wikipedia.org/wiki/Stéphane_Mallarmé)
 
 ```
               1. Icon
