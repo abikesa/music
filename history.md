@@ -38,14 +38,23 @@ Again, the scores and rankings are entirely subjective and based on equal weight
 
 But its notable that Bernstein's lectures were as follows:
 1. Phonology:: Bach's WTK
-2. Syntax:: Mozart's 40th
-3. Meaning:: Beethoven's 6th
-4. [Ambiguity](https://newcriterion.com/blogs/dispatch/when-richard-met-hector):: [Hector Berlioz](https://en.wikipedia.org/wiki/Symphonie_fantastique)
+   - Equal temperement
+   - Modulation to any key
+     
+3. Syntax:: Mozart's 40th
+   - Chromaticism
+   - Diatonicism contains it in the `circle of 5ths`
+4. Meaning:: Beethoven's 6th
+   - Intrinsic metaphors: `transformations` from deep prosaic syntactic structures to super surface poetic structures
+   - Extrinsic metaphors: `pastoral` symphony & the inauguration of program music in the romantic era
+   - Opera and fusion of art forms to enhance the vocabulary of extrinsic metaphors and analogies (Berliot's Romeo et Juliet; Wagner's Triste und Isolde)
+     
+6. [Ambiguity](https://newcriterion.com/blogs/dispatch/when-richard-met-hector):: [Hector Berlioz](https://en.wikipedia.org/wiki/Symphonie_fantastique)
    - b3b5bb7
    - dim7
    - capable of [4 resolutions](https://www.youtube.com/watch?v=hwXO3I8ASSg)
      
-6. Limits:: [Wagnerite's](https://github.com/abikesa/music/blob/main/modes.md) & Stravinsky
+7. Limits:: [Wagnerite's](https://github.com/abikesa/music/blob/main/modes.md) & Stravinsky
 
 
 ```
