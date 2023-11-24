@@ -55,6 +55,13 @@ But its notable that Bernstein's lectures were as follows:
    - capable of [4 resolutions](https://www.youtube.com/watch?v=hwXO3I8ASSg)
      
 7. Limits:: [Wagnerite's](https://github.com/abikesa/music/blob/main/modes.md) & Stravinsky
+   - The gates of the golden age that were the outter limits of diatonic majesty have been flung open
+   - Now that they are open, we are in new tonal fields that are apparently `limitless`
+   - We are bounding and leaping from one ambiguity to the other
+   - From Berlioz to Wagner to Mahler to Debussy, and `Stravinsky`
+   - Its a dizzying adventure this romantic romp
+   - Shedding one inhibition after another; indulging in newer and more illicit ambiguities for nearly a century
+   - But how far can music run without finding it in unchartted terrain with a wild forest of sharps and flats?
 
 
 ```
