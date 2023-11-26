@@ -13,6 +13,15 @@
 
 ### Affective 
 - Chords
+  - `Modifies` expectations
+    - Key/Tonal Center
+    - Resolution
+    - Meaning
+      
+  - Effect-mofifier
+  - Quality-modifier
+  - Phonological-modifier
+    
 - [Randomized](https://www.youtube.com/watch?v=4ts6Ep_KarE)
 - Before
 
