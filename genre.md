@@ -20,6 +20,16 @@
       
   - Effect-mofifier
   - Quality-modifier
+    - [Jon B](https://www.youtube.com/watch?v=8xt7qRfDdzU), Brian McKnight
+      - Both from musical families
+      - And both had classically trained mothers
+      - Who were also music teachers
+      - Yet they chose self-instruction
+      - It was only way to capture the `soul` of what they liked
+      - Jimmy Jam & Lewis, Babyface
+      - Teaching wouldn't reach there
+      - Of course its interesting enough that Jon B was in high school gospel choir
+        
   - Phonological-modifier
     
 - [Randomized](https://www.youtube.com/watch?v=4ts6Ep_KarE)
