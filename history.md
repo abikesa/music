@@ -77,6 +77,8 @@ But its notable that Bernstein's lectures were as follows:
      - Produced the most ambiguous sounds ever heard in music
      - Sheer phonology was becoming an end in itself at the expense of semantic clarity
      - [Mallarme](https://en.wikipedia.org/wiki/Stéphane_Mallarmé)
+7. Earth
+   - Stravinsky 
 
 ```
               1. Icon
