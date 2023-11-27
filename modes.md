@@ -1,10 +1,10 @@
 
 ```
-   1. Phonology
+     1. Tension
                \
- 3. Meaning -> 2. Ambiguity -> 5. Limits -> 6. Earth
+ 3. Integument -> 2. Body -> 5. Mind -> 6. Soul
                /
-                4. Syntax
+                4. Release
 ```
 
 
@@ -17,7 +17,7 @@
    - Objective expressionism or aestheticism
       1. Extending the `triad` to `7th`, `9th`, `11th`, `13th`
       2. Introduction of polytonality: e.g. a single chord including Cmaj  triad + F#maj triad
-      3. Here we can have refreshing ambiguities, but still within limits
+      3. Here we can have refreshing ambiguities, but still within limits (like a chold shower in Bernstein's own words)
          
    - Rennaissnace from Subjective expressive impressionist stuff from all the arts at the time
    - Note that it retains expressionism but with less navel-gazing
@@ -47,3 +47,12 @@ It's important to note that while these composers were influenced by Wagner, the
 ---
 
 - [Stevie Wonder](https://www.youtube.com/watch?v=P0L5c2jJbL8)
+
+
+```
+   1. Phonology
+               \
+ 3. Meaning -> 2. Ambiguity -> 5. Limits -> 6. Earth
+               /
+                4. Syntax
+```
