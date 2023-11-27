@@ -78,7 +78,9 @@ But its notable that Bernstein's lectures were as follows:
      - Sheer phonology was becoming an end in itself at the expense of semantic clarity
      - [Mallarme](https://en.wikipedia.org/wiki/Stéphane_Mallarmé)
 7. Earth
-   - Stravinsky 
+   - Stravinsky
+   - A veritable rennaissance
+   - Tonality just when Schoenberg's atonality is reaching breaking point
 
 ```
               1. Icon
