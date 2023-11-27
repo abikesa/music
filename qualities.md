@@ -25,3 +25,4 @@
      
 5. Voicing
 6. Bounce
+   - Primitive corporeal dance rhythms
