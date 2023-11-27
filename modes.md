@@ -14,7 +14,11 @@
 4. Mozart's 40th
 5. Wagner's disciples
 6. Stravinky's `Firebird`
-
+   - Objective expressionism
+   - Rennaissnace from Subjective expressive impressionist stuff from all the arts at the time
+   - Note that it retains expressionism but with less navel-gazing
+     
+     
 ---
 
 In the Western classical music tradition, Richard Wagner is often credited with pushing tonal music to its limits. Wagner, a 19th-century German composer, is known for his innovative use of harmony, orchestration, and form. His operas, such as "Tristan und Isolde" and "The Ring Cycle," contain chromaticism, unresolved dissonances, and extended tonal structures that challenged the conventions of the time. Wagner's work is considered a significant step towards the dissolution of tonality and the emergence of the more atonal and chromatic music of the 20th century.
