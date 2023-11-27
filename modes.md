@@ -16,7 +16,7 @@
 6. Stravinky's `Firebird`
    - Objective expressionism or aestheticism
       1. Extending the `triad` to `7th`, `9th`, `11th`, `13th`
-      2. Introduction of polytonality (which ***isn't*** orthogonal to above)
+      2. Introduction of polytonality: e.g. a single chord including Cmaj  triad + F#maj triad
       3. Here we can have refreshing ambiguities, but still within limits
          
    - Rennaissnace from Subjective expressive impressionist stuff from all the arts at the time
