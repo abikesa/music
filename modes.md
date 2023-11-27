@@ -14,10 +14,13 @@
 4. Mozart's 40th
 5. Wagner's disciples
 6. Stravinky's `Firebird`
-   - Objective expressionism
+   - Objective expressionism or aestheticism
    - Rennaissnace from Subjective expressive impressionist stuff from all the arts at the time
    - Note that it retains expressionism but with less navel-gazing
-     
+   - Contemplating a world to which the composer is affectively attached 
+      1. Petrushka:: the world of the Russian carnival
+      2. Le Sacre du printemps:: dream world of a pagan Russia
+      3. Musically encoding what these meant to him (the composer)
      
 ---
 
