@@ -20,7 +20,7 @@
    - Disipense with MCR as we know it and adopt:
      - Melody: motifs
      - Chords: polytonality
-     - Rhythms: polyrhythms (within which are embedded motifs... melodies wouldn't snuggly fit)
+     - Rhythms: polyrhythms (within which are embedded motifs... melodies wouldn't snuggly fit); mottos, ritual, primitive chants
      
 6. Wagner's disciples
       1. **Richard Strauss:** A German composer, Strauss was heavily influenced by Wagner's orchestrations and dramatic use of the orchestra. His tone poems, such as "Also sprach Zarathustra" and "Ein Heldenleben," exhibit Wagnerian influences. **The influence of Richard Wagner** can be seen in the work of several composers who came after him, often referred to as his heirs. Some notable composers influenced by Wagner include Strauss, Mahler, Debussy, and Schoenberg. **In the Western classical music tradition**, Richard Wagner is often credited with `pushing tonal music to its limits`. Wagner, a 19th-century German composer, is known for his innovative use of harmony, orchestration, and form. His operas, such as "Tristan und Isolde" and "The Ring Cycle," contain chromaticism, unresolved dissonances, and extended tonal structures that challenged the conventions of the time. Wagner's work is considered a significant step towards the dissolution of tonality and the emergence of the more atonal and chromatic music of the 20th century. 
