@@ -36,6 +36,8 @@
       1. Extending the `triad` to `7th`, `9th`, `11th`, `13th`
       2. Introduction of polytonality: e.g. a single chord including Cmaj  triad + F#maj triad
       3. Here we can have refreshing ambiguities, but still within limits (like a chold shower in Bernstein's own words)
+      4. A `respectful distance` so that its not personal emotions but those of the collective subconscious of a primitive tribe
+      5. Lots of [vernacular](https://www.youtube.com/watch?v=OWeQXTnv_xU) in Stravinsky that resonated with virtually all vernaculars across the world
          
    - Rennaissnace from Subjective expressive impressionist stuff from all the arts at the time
    - Note that it retains expressionism but with less navel-gazing
