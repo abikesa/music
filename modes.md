@@ -15,6 +15,10 @@
 5. Wagner's disciples
 6. Stravinky's `Firebird`
    - Objective expressionism or aestheticism
+      1. Extending the `triad` to `7th`, `9th`, `11th`, `13th`
+      2. Introduction of polytonality (which ***isn't*** orthogonal to above)
+      3. Here we can have refreshing ambiguities, but still within limits
+         
    - Rennaissnace from Subjective expressive impressionist stuff from all the arts at the time
    - Note that it retains expressionism but with less navel-gazing
    - Contemplating a world to which the composer is affectively attached 
