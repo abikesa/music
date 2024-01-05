@@ -30,3 +30,25 @@ Here is the great history of music for the modern reader. It supplies the necess
 - Reduction: In reduction, a molecule gains electrons. This process often involves the addition of hydrogen atoms. When a molecule gains hydrogen atoms, it typically means it's gaining electrons and moving towards a reduced state.
 
 - So, in many redox reactions, the transfer of electrons is linked to the transfer of hydrogen atoms. This interplay between electrons and hydrogen atoms is a fundamental aspect of redox chemistry in biological systems and plays a crucial role in various metabolic processes and energy production.
+
+---
+
+- M 
+Right hand/upper keys
+- C
+Left hand/lower keys 
+Bb to F 
+Drawbar settings 
+Voicing
+- R
+Pocket
+Fill-ins, 16ths, off beat 
+After melody 
+[Pedal](https://www.youtube.com/watch?v=Zai5CXyRAVk), [triads or 7ths](https://open.spotify.com/playlist/586uUMT1qOKYUqS1FduFLE?si=608c7fb7aee847f1&nd=1&dlsi=9f8a7998c3ce4c77)
+
+Practice:
+1. Fingers (warmup, scales, etc)
+2. Mind (Gospel music university)
+3. Song (Apply all above)
+
+Do all these concurrently, just know what you’re focusing on at the time 
