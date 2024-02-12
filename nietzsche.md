@@ -10,7 +10,10 @@
 2. Scholarship as a problem::`Illusions`
    - When Metaphysics and Physics clash
        - Music, like math, deals in abstractions that are tethered to reality.
-       - The empiricism of science, accounting, business, bets, taxes, and governance lends legitimacy to math \
+       - The empiricism of science, accounting, business, bets, taxes, and governance lends legitimacy to math
+           - A metaphysics attempts to explain everything and $R^2$ states how well it does
+           - Experimental methods create highly controlled systems within which a decent $R^2$ might be realized
+           - From this perspective all science and scholarship consists of idealizing instead of confronting reality head on, which is what business does
        - Similarly, the emotions life’s challenges and victories evoke are mirrored by music, making it the most relatable item in human history
    - A resonant world view vs. dissonant experiences
    - Tension & release are born
