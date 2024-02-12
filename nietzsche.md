@@ -16,15 +16,17 @@
    - Tension & release are born
    - You'll find that received wisdom [agrees and disagrees](https://github.com/abikesa/journal/tree/main?tab=readme-ov-file) with a lived experience
 3. Empiricism vs. Romanticism::`Frailty`  
+   - Uneven in tempo
+   - Extremely self-confident
+   - Dispensing of evidence
 4. Chorus vs Logic
-   - Regardless, music is very firmly tethered to reality as follows:
+   - Regardless, music is very firmly tethered to reality and would help distinguish the Greeks from pious Christians:
       - Skill, $x$
       - Challenge, $y$
       - Emotion, $(x, y)$
       - Tool, $\frac{\partial y}{\partial x}$
       - Agency, $x=y$
       - Flow $\frac{\partial y}{\partial x}=1$
-
 5. Morality vs. Aesthetics
    - Unthinking and amoral artist-God
 6. Optimism vs. Pessimism
