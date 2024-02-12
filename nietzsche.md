@@ -14,7 +14,7 @@
        - Similarly, the emotions life’s challenges and victories evoke are mirrored by music, making it the most relatable item in human history
    - A resonant world view vs. dissonant experiences
    - Tension & release are born
-   - You'll find that received wisdom agrees and disagrees with a lived experience
+   - You'll find that received wisdom [agrees and disagrees](https://github.com/abikesa/journal/tree/main?tab=readme-ov-file) with a lived experience
 3. Empiricism vs. Romanticism::`Frailty`  
 4. Chorus vs Logic
    - Regardless, music is very firmly tethered to reality as follows:
