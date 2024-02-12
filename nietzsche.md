@@ -24,6 +24,8 @@
    - Dispensing of evidence
 4. Chorus vs Logic
    - Regardless, music is very firmly tethered to reality and would help distinguish the Greeks from pious Christians:
+   - Indeed, what is the Dionysian? This book offers an answer to that question: a "knowledgeable person" speaks there, the initiate and disciple of his own god. Perhaps I would now speak with more care and less eloquently about such a difficult psychological question as the origin of tragedy among the Greeks
+   - When the issue of my breakup with Tura comes up the question of listening to my own god or the god of my collective group: family, buddies, trustees comes up. I wasn't Dionysian; rather, my Apollonian proclivities bent to received wisdom
       - Skill, $x$
       - Challenge, $y$
       - Emotion, $(x, y)$
