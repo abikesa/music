@@ -1,7 +1,7 @@
-               1. Birth
-                       \
-         2. Apollo ->  4. Frenzy -> 5. Art -> 6. Tragedy 
-                       /
+               1. Greeks
+                        \
+          2. Apollo ->  4. Frenzy -> 5. Art -> 6. Tragedy 
+                        /
                         3. Dionysus
                              
 # Gospel music and the birth of duality (i.e., psychology)
