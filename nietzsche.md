@@ -34,6 +34,7 @@
    - Unthinking and amoral artist-God
 6. Optimism vs. Pessimism
    - Here is announced, perhaps for the first time, a pessimism "beyond good and evil." Here comes that "perversity in belief" in word and formula, a philosophy which dared to place morality itself in the world of phenomena and so to subsume it, not under the "visions" (in the sense of some idealistic end point) but under "illusions," as an appearance, delusion, fallacy, interpretation, something made up, a work of art.
+   - `To look at scientific enquiry from the perspective of the artist, but to look at art from the perspective of life. . . `
 
 
 
