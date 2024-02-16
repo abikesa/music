@@ -52,3 +52,15 @@ Practice:
 3. Song (Apply all above)
 
 Do all these concurrently, just know what you’re focusing on at the time 
+
+# Tyla's [On & On](https://www.youtube.com/watch?v=IBbfGilv7kI)
+- Melody
+  - Voice lead
+- Chords
+  - Very churchy
+  - Electric piano
+  - Rhodes
+- Rhythm
+  - Bassline with syncopation
+  - Additional `808` syncopation
+  - Tiday bass-chord-melody idea from [figured bass](https://en.wikipedia.org/wiki/Figured_bass) and late Baroque period
