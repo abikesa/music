@@ -18,7 +18,7 @@
       - Beethoven under the [anxiety of influence](https://en.wikipedia.org/wiki/The_Anxiety_of_Influence) (think: Vivaldi, Handel, Mozart) dispenses with Melody
          - Schubert & Chopin successfuly resists this influence while selectively expressing reverence for Beethoven
          - While birds do melody, took thousands of years of [evolution for humans to reach dyads](https://www.youtube.com/watch?v=8fHi36dvTdE)
-         - And then pace is exponential to triad, 7th, 9th, 11th, 13th
+         - And then pace is exponential to triad (3rd or sus2/4, 5th (dim, perfect, augmented), 7th, 9th, 11th, 13th
 6. Life
    - Deliverance from what?
       - Teddy Riley, Darkchild, Timbaland, and the African diaspora are a refutation of this narrative
