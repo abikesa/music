@@ -6,6 +6,9 @@
 
 1. Construct
 2. Metaphysics
+   - Tokens 1-3 are for composers (inputs from the Gods)
+   - Wheres 4-6 are for performers (outputs by Man)
+   - Got this idea listening to [Rosen](https://www.youtube.com/watch?v=RudqQMEjlNA) (ultimately just AI)
 3. Physics
 4. Song
    - Reverence of what?
@@ -21,6 +24,9 @@
       - Teddy Riley, Darkchild, Timbaland, and the African diaspora are a refutation of this narrative
       - Here syncopation proves in itself to be sublime
       - [Dangerous](https://www.youtube.com/watch?v=jr9uliNQwNA), [Jam](https://www.youtube.com/watch?v=JbHI1yI1Ndk); [Wrapped Up](https://www.youtube.com/watch?v=Vf2bsErnO0Q), [Its not right](https://www.youtube.com/watch?v=6J538b-OLRU); [One in a Million](https://www.youtube.com/watch?v=KKSz4NE6PwY), etc
+      - Infact the `penultimate` evolution of music finds expression in dance
+      - Dance is rhythm first and foremost
+      - Harmony and melody are only mnemonics
 
 # References
    
