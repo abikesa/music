@@ -6,6 +6,12 @@
 # [Musik](https://en.wikipedia.org/wiki/The_Mourning_Bride)
 
 1. Construct
+   - M
+      - Pentatonic 
+   - C
+      - Syncopated 
+   - R
+      - [Groove](https://www.youtube.com/watch?v=lo9qsCAx2UU)
 2. Metaphysics
    - Tokens 1-3 are for composers (inputs from the Gods)
    - Wheres 4-6 are for performers (outputs by Man)
@@ -20,7 +26,7 @@
          - Schubert & Chopin successfuly resists this influence while selectively expressing reverence for Beethoven
          - While birds do melody, took thousands of years of [evolution for humans to reach dyads](https://www.youtube.com/watch?v=8fHi36dvTdE)
          - And then pace is exponential to triad (3rd or sus2/4, 5th (dim, perfect, augmented), 7th, 9th, 11th, 13th
-6. Life
+6. [Life](https://www.youtube.com/watch?v=lo9qsCAx2UU)
    - Deliverance from what?
       - Teddy Riley, Darkchild, Timbaland, and the African diaspora are a refutation of this narrative
       - Here syncopation proves in itself to be sublime
