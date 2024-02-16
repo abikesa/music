@@ -1,9 +1,15 @@
+            1. Construct
+                        \
+      2. Metaphysics -> 4. Gospel -> 5. Art -> Life
+                        /
+                        3. Physics
+
 
 # Music in Western Civilization    
 ### *Paul Henry Lang*
 #### PROFESSOR OF MUSIC, COLUMBIA UNIVERSITY
 
-While many books have been written about music, some dealing with the lives of composers, some describing the d evelopment of opera and symphony, and some even attempting to place the whole history of music in chronological order, almost all this literature considers music as an isolated domain of human activity. In this book Professor Lang undertakes to place music in hte general current of our civilization.
+While many books have been written about music, some dealing with the lives of composers, some describing the d evelopment of opera and symphony, and some even attempting to place the whole history of music in chronological order, almost all this literature considers `music as an isolated domain of human activity`. In this book Professor Lang undertakes to place music in the general current of our civilization.
 
 Music in Western Civilization gives an entirely new insight into hte nature of musical art. The author explores the archives of human history to shed light on the forces which determined the development of music as a part of intellectual and artistic life. The spirit of each age finds expression in its music as well as in its literature, philosophy, and social life. Here are seen in turn the political and ethical conception of Greek music, the rise of Christian liturgy, the lyric poetry of the Middle Ages and the scintillating brilliance of hte Renaissance courts, the towring structure of the baroque, the classical school of hte eighteenth century, and sociological ramifications of modern music.
 
