@@ -35,9 +35,9 @@ Here is the great history of music for the modern reader. It supplies the necess
 - Transmission of musical code 
    - Tokens 
       - Modes (Well-Tempered Clavier)
-      - Genres (Prelude & Fugue)
+      - Genres (Goldberg Variationd)
       - Pantheon (J.S. Bach)
-      - Improvisation 
+      - Improvisation (Inventions)
       - Like Gospel Music Pros “inherit”
 
 - Mine’s a more engaging approach that can be compared to transmission of genes, culture, language, and knowledge as we see in training of generative transformative models
