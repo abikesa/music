@@ -58,13 +58,13 @@ To explore the genres of gospel music with a focus on harmonic tension, we'll co
 ### 5. Jazz/Late Contemporary Christian
 **Harmonic Characteristics:** Characterized by a sophisticated use of extended chords (major 7ths, dominant 9ths, 11ths, and 13ths), modal interchange, and altered chords (e.g., #11, b9). Harmonic tension is significantly higher, with complex chord progressions and less predictable resolutions, often employing modal and tonal ambiguity.
 
-| Genre                        | Chord Types                                 | Tension Level          |
-|------------------------------|---------------------------------------------|------------------------|
-| Traditional Gospel           | Triads, Dominant 7ths                       | Low                    |
-| Worship                      | Sus chords, Add chords                      | Low to Moderate        |
-| Churchy (Gospel Blues)       | Dominant 7ths, 9ths, Blues scale            | Moderate               |
-| R&B/Early Contemporary       | 7ths, 9ths, Elevenths                       | Moderate to High       |
-| Jazz/Late Contemporary       | 7ths, 9ths, 11ths, 13ths, Altered chords    | High                   |
+| Genre                        | Chord Types                                 | Tension Level          |  Hack |
+|------------------------------|---------------------------------------------|------------------------|---|
+| Traditional Gospel           | Triads, Dominant 7ths                       | Low                    | 7
+| Worship                      | Sus chords, Add chords                      | Low to Moderate        | Others
+| Churchy (Gospel Blues)       | Dominant 7ths, 9ths, Blues scale            | Moderate               | Blues
+| R&B/Early Contemporary       | 7ths, 9ths, Elevenths                       | Moderate to High       | Secondary doms
+| Jazz/Late Contemporary       | 7ths, 9ths, 11ths, 13ths, Altered chords    | High                   | 6
 
 This table highlights the gradual increase in harmonic tension across gospel music genres, illustrating the evolution from simple triadic harmonies to complex jazz-infused chord structures. The use of extended and altered chords not only enriches the harmonic palette but also reflects a deeper emotional and spiritual expression within the music.
 
