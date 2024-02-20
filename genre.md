@@ -9,7 +9,7 @@
 1. Construct
    - Genre (e.g. country)
 2. Metaphysics
-   - Wherein a tribe:
+   - Wherein [a tribe](https://www.youtube.com/watch?v=ZsMuKSpQfIY):
       - Hideth
       - Whineth
       - Tameth
