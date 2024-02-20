@@ -87,7 +87,7 @@ Creating a timeline for the development and dominance of these gospel music styl
 3. **Churchy (Gospel Blues)**
    - **Era:** Mid to Late 20th Century (1960s-1970s)
    - **Key Features:** A blend of gospel music with blues and jazz elements, reflecting a deeper integration of African American musical traditions.
-   - **Notable Figures:** James Cleveland, Andraé Crouch (bridging into contemporary styles).
+   - **Notable Figures:** James Cleveland, [Andraé Crouch](https://www.youtube.com/watch?v=CvIxwc90BEI) (bridging into contemporary styles).
 
 4. **R&B/Early Contemporary Christian**
    - **Era:** Late 20th Century (1970s-1980s)
@@ -97,6 +97,6 @@ Creating a timeline for the development and dominance of these gospel music styl
 5. **Jazz/Late Contemporary Christian**
    - **Era:** Late 20th Century to Early 21st Century (1980s-present)
    - **Key Features:** Incorporates complex jazz harmonies and rhythms, representing the pinnacle of harmonic tension in gospel music with a sophisticated sound palette.
-   - **Notable Figures:** Israel Houghton, Jonathan McReynolds (also blending with other contemporary sounds).
+   - **Notable Figures:** [Israel Houghton](https://www.youtube.com/watch?v=DBGd4gsu35c), Jonathan McReynolds (also blending with other contemporary sounds).
 
 This timeline showcases the evolution of gospel music from its roots in traditional spirituals and hymns, through the incorporation of various musical influences such as blues, R&B, and jazz, culminating in the sophisticated harmonic language of contemporary Christian music. It's important to note that these styles and periods overlap and influence each other, with many artists and congregations blending elements from different eras and styles.
