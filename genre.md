@@ -60,11 +60,11 @@ To explore the genres of gospel music with a focus on harmonic tension, we'll co
 
 | Genre                        | Chord Types                                 | Tension Level          |  Hack |
 |------------------------------|---------------------------------------------|------------------------|---|
-| Traditional Gospel           | Triads, Dominant 7ths                       | Low                    | 7
-| Worship                      | Sus chords, Add chords                      | Low to Moderate        | Others
-| Churchy (Gospel Blues)       | Dominant 7ths, 9ths, Blues scale            | Moderate               | Blues
-| R&B/Early Contemporary       | 7ths, 9ths, Elevenths                       | Moderate to High       | Secondary doms
-| Jazz/Late Contemporary       | 7ths, 9ths, 11ths, 13ths, Altered chords    | High                   | 6
+| Traditional Gospel           | Triads, Dominant 7ths                       | Low                    | Primaries  
+| Worship                      | Sus chords, Add chords                      | Low to Moderate        | Tension  
+| Churchy (Gospel Blues)       | Dominant 7ths, 9ths, Blues scale            | Moderate               | Blues 
+| R&B/Early Contemporary       | 7ths, 9ths, Elevenths                       | Moderate to High       | Secondaries   
+| Jazz/Late Contemporary       | 7ths, 9ths, 11ths, 13ths, Altered chords    | High                   | Extensions
 
 This table highlights the gradual increase in harmonic tension across gospel music genres, illustrating the evolution from simple triadic harmonies to complex jazz-infused chord structures. The use of extended and altered chords not only enriches the harmonic palette but also reflects a deeper emotional and spiritual expression within the music.
 
