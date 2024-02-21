@@ -16,6 +16,7 @@
    - Tokens 1-3 are for composers (inputs from the Gods)
    - Wheres 4-6 are for performers (outputs by Man)
    - Got this idea listening to [Rosen](https://www.youtube.com/watch?v=RudqQMEjlNA) (ultimately just AI)
+   - But at bottom its all about the phonetic, syntactic, and thematic aspects
 3. Physics
 4. Song
    - Reverence of what?
