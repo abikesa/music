@@ -15,6 +15,6 @@
 5. Art
    - Indifferent/Passive: 7th (Earliest harmonics)
    - Enabling/Verb: Others, Blues, Domants (Furthest harmonics)
-   - Antagonistic/Proactive: 6th (Limits craving resolution)
+   - [Antagonistic](https://www.youtube.com/watch?v=GeoBFbcA-aM)/Proactive: 6th (Limits craving resolution)
 6. Life
    - Eternally recurrent tragic quantized cadence of the same
