@@ -17,4 +17,4 @@
    - Enabling/Verb: Others, Blues, Domants (Furthest harmonics)
    - [Antagonistic](https://www.youtube.com/watch?v=GeoBFbcA-aM)/Proactive: 6th (Limits craving resolution)
 6. Life
-   - Eternally recurrent tragic quantized cadence of the same
+   - Eternally recurrent tragic [quantized](https://www.youtube.com/watch?v=Q0FxVGan0_8) cadence of the same
