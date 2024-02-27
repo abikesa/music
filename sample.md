@@ -12,13 +12,13 @@
 3. Physics: Wave theory
 4. Song: Narrative journey
    - `Voir`: Rich Harrison's D.C. ear (or blinkered vision) picks [Go-Go](https://en.wikipedia.org/wiki/1_Thing) from [The Meters](https://en.wikipedia.org/wiki/The_Meters) "[Oh, Calcutta!](https://www.youtube.com/watch?v=UJtRScjGK0U)" at 1:41/2:44-1:50/2:44. This is only 9/164 seconds (5%) of the entire song
-   - `Savoir`: A tale from the emerging Smooth Jazz scene in New Orleans is thus retold from D.C.s go-go perspective
+   - `Savoir`: A tale from the emerging Smooth Jazz scene in [New Orleans](https://en.wikipedia.org/wiki/Ziggy_Modeliste#) is thus retold from D.C.s go-go perspective
    - `Pouvoir`: Biased sample and re-arrangement of the units to produce "This 1 Thing" and influence [many](https://www.youtube.com/watch?v=Q0FxVGan0_8)
 5. Art: Chord progression
    - F# (IV7-vi7-V7-IV7-ii7)
    - Catalysts (not her label), Medium (DJs across the nation), Disruption (Harrison-Amerie combo `unstoppable`)
-6. Life: Evolution of [Groove](https://www.youtube.com/watch?v=Q0FxVGan0_8)
-   - Later in 2004, six months after recording "1 Thing", Amerie (Georgetown Univ.) and Harrison (D.C./go-go streets) leaked it to US radio stations in an attempt to get it released officially. The response from DJs and listeners was positive, and it consequently received airplay across the country. Columbia Records attempted to suppress the song because it was an unofficial release, and because `Jennifer Lopez (another artist on the label) had expressed interest in recording the song for her own album`, Rebirth Radio stations refused to retract the song from their playlists, and Columbia eventually began promoting "1 Thing" as a single, making it a last-minute addition to the Hitch soundtrack.[1] Lopez settled on another Harrison-produced, funk-infused track, the Usher outtake "Get Right".[4] The song was officially serviced to American urban radio stations on January 18, 2005.
+6. [Life](https://en.wikipedia.org/wiki/Second_line_(parades)#Modern_second_lining): Evolution of [Groove](https://www.youtube.com/watch?v=Q0FxVGan0_8)
+   - Later in 2004, six months after recording "1 Thing", Amerie (Georgetown Univ.) and Harrison (D.C./go-go streets) leaked it to US radio stations in an attempt to get it released officially. The response from DJs and listeners was positive, and it consequently received airplay across the country. Columbia Records attempted to suppress the song because it was an unofficial release, and because `Jennifer Lopez (another artist on the label) had expressed interest in recording the song for her own album`, Rebirth Radio stations refused to retract the song from their playlists, and Columbia eventually began promoting "1 Thing" as a single, making it a last-minute addition to the Hitch soundtrack. Lopez settled on another Harrison-produced, funk-infused track, the Usher outtake "Get Right". The song was officially serviced to American urban radio stations on January 18, 2005.
   
 # [Backstory](https://web.archive.org/web/20071204044225/http://www.stylusmagazine.com/review.php?ID=3014)
 
