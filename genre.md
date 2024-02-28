@@ -39,7 +39,7 @@
 6. Life
    - Mismatch: `Beyoncé akomyawo ememe yoyo omuwala 'wa country music`
    - Victory: `Ontekeratekera emeeza mumaso agabalabe bange mukibuga`
-   - League: `ekikompe kyange kiyeeka n'obugaga, n'amanyi`
+   - League: `Ekikompe kyange kiyeeka n'obugaga, n'amanyi`
 
 # Genres
 
