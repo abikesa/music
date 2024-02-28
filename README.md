@@ -19,3 +19,14 @@
    - [Antagonistic](https://www.youtube.com/watch?v=GeoBFbcA-aM)/Proactive: 6th (Limits craving resolution)
 6. Life
    - Eternally recurrent tragic [quantized](https://www.youtube.com/watch?v=Q0FxVGan0_8) cadence of the same (grooves, pockets)
+      - Ancient
+         - Greek
+         - Byzantine
+         - Rome
+         - Christendom
+         - Art
+      - Rennaissance
+         - Baroque
+         - Classic
+         - Romanticism
+      - Modern        
