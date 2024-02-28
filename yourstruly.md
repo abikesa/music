@@ -22,7 +22,7 @@ The harmonic series represents the foundation of musical harmony, where each not
 
 ### 2. Metaphysics: Equal Temperament as Compromise
 
-Equal temperament, the tuning system that adjusts the pitch of notes to allow music to be played in any key with the same relative accuracy, symbolizes the philosophical balance between ideal purity and practical necessity. This compromise is crucial in both music and life, enabling versatility and adaptability. It reflects the necessity of navigating between one's authentic self and societal expectations, as echoed in Marilyn Monroe's acknowledgment of her complexities and imperfections.
+Equal temperament, the tuning system that adjusts the pitch of notes to allow music to be played in any key with the same relative accuracy, symbolizes the philosophical balance between `ideal purity and practical necessity. This compromise` is crucial in both music and life, enabling versatility and adaptability. It reflects the necessity of navigating between one's authentic self and societal expectations, as echoed in Marilyn Monroe's acknowledgment of her complexities and imperfections.
 
 ### 3. Physics: Wave Theory and Authenticity
 
