@@ -11,8 +11,9 @@
 2. Metaphysics
    - Wherein [a tribe](https://www.youtube.com/watch?v=ZsMuKSpQfIY):
       - Hideth
-         - What I appreciate from [country music](https://www.youtube.com/watch?v=xCmh9t0M7og) is the simple and loving themes they sing. Trucks, family and gratitude.
+         - What I appreciate from [country music](https://www.youtube.com/watch?v=xCmh9t0M7og) is the [simple and loving](https://www.youtube.com/shorts/KmcuqktBvqQ) themes they sing. Trucks, family and gratitude.
       - Whineth
+         - `Oyo harmonic series zijja mulema nga triads zigwedde; tajakusobola mukibuga omuli abantu abali complex, awali abalabe, awali tensions`  
       - Tameth
 3. Physics
    - Melody
@@ -36,9 +37,9 @@
       - Dominants: secondary
       - Altered notes: b9, #11, 13
 6. Life
-   - Mismatch
-   - Victory
-   - League
+   - Mismatch: `Beyoncé akomyawo ememe yoyo omuwala 'wa country music`
+   - Victory: `Ontekeratekera emeeza mumaso agabalabe bange mukibuga`
+   - League: `ekikompe kyange kiyeeka n'obugaga, n'amanyi`
 
 # Genres
 
