@@ -11,6 +11,7 @@
 2. Metaphysics
    - Wherein [a tribe](https://www.youtube.com/watch?v=ZsMuKSpQfIY):
       - Hideth
+         - What I appreciate from [country music](https://www.youtube.com/watch?v=xCmh9t0M7og) is the simple and loving themes they sing. Trucks, family and gratitude.
       - Whineth
       - Tameth
 3. Physics
