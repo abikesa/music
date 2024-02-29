@@ -4,7 +4,7 @@ By Roger Friedman
 
 
 
-Beyonce: [She Didn’t Write The Songs](https://prince.org/msg/8/164291)
+Beyonce: [She Didn’t Write The Songs](https://www.foxnews.com/story/beyonce-takes-credit-for-writing-songs)
 
 Vanity Fair finally puts a solo African-American on its cover, and doesn’t do any fact checking.
 
