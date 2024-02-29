@@ -27,6 +27,7 @@
 - Well, both are psychologists who are well-versed in manipulation afterall (one as a shrink and other as a neo-noir erotic thriller novelist)
 - Added ambiguity is the movie we are watching vs. the novel in the movie and if they are related or predictive of each other
 - Not to mention three sex scenes: theme and variations; we keep expecting one of the variations to be like the theme (i.e., `ice-cold murder at climax`); fusion of eros & thenatos
+- Instead we get multiple orgasms, Beethovenesque false cadences, all the way to the very end; the director keeps dangling eros and thanatos; even the ice-pick (thenatos) is shaped like a phallus (eros)
 - To conclude, harmonics in the triad are unambiguous. But as one goes higher up with stacks of minor triads (e.g. half-dimished), ambiguity increases
 
 #
