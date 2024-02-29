@@ -6,6 +6,7 @@
 
   1. Construct
   2. Metaphypsics
+     - History shows us that ambiguity of the higher overtones is what permits equal temperement
   3. Physics
   4. Song: Freudian ensemble
      - Ego: Root (Protagonist)
