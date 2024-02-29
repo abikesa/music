@@ -8,9 +8,9 @@
   2. Metaphypsics
   3. Physics
   4. Song: Freudian ensemble
-     - Root
-     - 3rd, 5th
-     - Unconscious: sus, dom, tensions, altered
+     - Ego: Root (Protagonist)
+     - Superego: 3rd, 5th (Mother, nurturing community, eros)
+     - Unconscious: sus, dom, tensions, altered (Father, conflict, pain, thanatos)
   5. Art
      - Frequency: Harmonics
      - Amplitude: Interference that strengthens or weakens
