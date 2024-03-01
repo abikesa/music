@@ -27,6 +27,11 @@
          - What a voice lead!!!
          - From stuff Rick is "indifferent" to
          - To stuff Rick "hideth" from
+            - "whineth" to "hideth" is a regression from young adult responsibility to helplessness of infancy
+            - Rick was a lover; whatever backstory there in the US may have seen Rick "tameth" and run afoul of worthy adversaries (no victory)
+            - Or was it Paris? Where the Reich "commandeth"
+               - Hideth, whineth, tameth; `seeketh`, findeth, commandeth. Casablanca is about seeking a pathway to Lisbon
+               - Every one hideth from, avoideth the Reich in Paris. And seeketh a way to America
          - In a few minutes "As time goes by" is going to twinkle off the piano
          - And the rest is Cinematic history!  
 6. Life: Eternal Recurrence
