@@ -10,10 +10,25 @@
 3. Phyiscs: Wave Theory
 4. Song: Freudian Ensemble
 5. Art: Chord Progression
-   - Outstanding voicing in "Casablanca
-      - Rick is [completely neutral](http://www.vincasa.com/casabla.pdf) about everything. And that takes in the field of women too
-      - You weren't always so carefully neutral. We have a complete dossier on you
-      - Richarch Blaine, American. Age, thirty-seve. Cannot return to his country
+   - Outstanding voicing in "Casablanca"
+      - Aha. Who do you think will win the war?
+      - I haven't the slightest idea.
+      - Rick is [completely neutral](http://www.vincasa.com/casabla.pdf) about everything. And that takes in the field of women, too.
+      - You weren't always so carefully neutral. We have a complete dossier on you.
+      - Richarcd Blaine, American. Age, thirty-seve. Cannot return to his country.
+      - The reason is a little `vague`. We also know what you did in Paris, Mr. Blaine, and also we know why you left Paris.
+      - Don't worry. We are not going to broadcast it
+      - Are my eyes really brown?
+      - You will forgive my curiosity, Mr. Blaine. The point is, an enemy of the Reich has come to Casablanca and we are checking up on anybody who can be of any help to us
+      - My interest in whether Victor Laszio stays or goes is purely a sporting one
+      - In this case, you have no sympany for the fox, huh?
+      - Not particularly. I understand the point of view of the hound, too.
+      - `Segues` to scene with Victor Laszlo and Ms. Ilsa Lund arriving at Rick's
+         - What a voice lead!!!
+         - From stuff Rick is "indifferent" to
+         - To stuff Rick "hideth" from
+         - In a few minutes "As time goes by" is going to twinkle off the piano
+         - And the rest is Cinematic history!  
 6. Life: Eternal Recurrence
 
 This overview encapsulates the intricate interplay between various musical, philosophical, and existential constructs as they are mirrored in life and art, particularly through the lens of "Casablanca." Here's a summarization:
