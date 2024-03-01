@@ -21,8 +21,8 @@
 # Casablanca
 
 - WWII disrupted all sorts of social orders and hierarchies and wity dialogue captures this:
-   - Your money will be good at the bar (a Professor was working as waiter)
-   - Do you know who I am? Owner of the second largest bank in Amsterdam!
-   - The owner of the largest bank in Amsterdam in now making our finest recipies in Rick's Kitchen
-   - And his father is the call boy 
+   - Scene is set where its clear "only money" is allowed; no one has credit!
+   - Your money will be good at the bar (said to Deutche banker brandishing a credit note)
+   - Perhaps if you told him I was running the second leading banking house in Amsterdam!
+   - The wouldn't impress him (Rick). The leading banker in Amsterdam in now the best chef in our kitchen. And his father is the Bell Boy (a Professor was working as waiter)
 
