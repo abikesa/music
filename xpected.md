@@ -21,7 +21,7 @@
 # Casablanca
 
 - WWII disrupted all sorts of social orders and hierarchies and wity dialogue captures this:
-   - Your money will be good at the bar
+   - Your money will be good at the bar (a Professor was working as waiter)
    - Do you know who I am? Owner of the second largest bank in Amsterdam!
    - The owner of the largest bank in Amsterdam in now making our finest recipies in Rick's Kitchen
    - And his father is the call boy 
