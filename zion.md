@@ -9,6 +9,9 @@
 2. Metaphyics: Equal Temperament
 3. Phyiscs: Wave Theory
 4. Song: Freudian Ensemble
+   - Ego: Rick
+   - Superego: Ilsa
+   - Id: Victor
 5. Art: Chord Progression
    - Outstanding voicing in "Casablanca"
       - Aha. Who do you think will win the war?
