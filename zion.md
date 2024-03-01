@@ -36,7 +36,9 @@
                - Hideth, whineth, tameth; `seeketh`, findeth, commandeth. Casablanca is about seeking a pathway to Lisbon
                - Every one hideth from, avoideth the Reich in Paris. And seeketh a way to America
          - In a few minutes "As time goes by" is going to twinkle off the piano
-         - And the rest is Cinematic history!  
+         - And the rest is Cinematic history!
+         - Here the melody isn't mere "song" from the harmonics and acoustics, but art
+         - Its chord progression, summoning harmonics way beyond the triad; repressed memories
 6. Life: Eternal Recurrence
 
 This overview encapsulates the intricate interplay between various musical, philosophical, and existential constructs as they are mirrored in life and art, particularly through the lens of "Casablanca." Here's a summarization:
