@@ -8,6 +8,7 @@
   2. Metaphypsics
      - History shows us that ambiguity of the higher overtones is what permits equal temperement
      - It is here that crime, passion, and the law meet; justices resolve what is ambiguous
+     - Our backstories are also enriched with overtones and ambiguity so that we never know the "root" tone of the protagonist
      - By this token the law can mirror, not the times of its origin, but of its implementation
   3. Physics
   4. Song: Freudian ensemble
