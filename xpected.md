@@ -12,7 +12,7 @@
    - Hierarchy based on frequency
       - `Interfearance Pattern`
    - Thats the harmonic series
-4. Song: Freudian Ensemble
+4. Song: Freudian Ensemble (Ego-root, Superego-triad, Id-tensions)
 5. Art: Triads, Extended, Altered
 6. Life:  
    - Hideth: Mismatch
@@ -24,5 +24,8 @@
    - Scene is set where its clear "only money" is allowed; no one has credit!
    - "Your money will be good at the bar," Rick says to a Deutche banker brandishing a credit note 
    - "Perhaps if you told him I was running the second leading banking house in Amsterdam," a patron says in response to suggestion that Rick is too snobbish to mingle with customers
-   - "That wouldn't impress him. The leading banker in Amsterdam in now the best chef in our kitchen... And his father is the Bell Boy," utters a French Professor waiting on them. 
+   - "That wouldn't impress him. The leading banker in Amsterdam in now the best chef in our kitchen... And his father is the Bell Boy," utters a French Professor waiting on them.
+   - Rick is cynical, no one can please him, but at the end of a conversation filled with subtlety, he reveals he is impressed with the shady gentleman who perhaps killed the `two German couriers carrying letters of transit`
+   - Of course we know he at least has a political stance in this war even though he acts `indifferent`, hideth in Rick's cafe, in Casablanca -- this is a New Yorker afterall
+   - But there's a backstory to this of course and Freudian ensemble might help with that 
 
