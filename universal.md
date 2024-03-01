@@ -7,6 +7,8 @@
   1. Construct
   2. Metaphypsics
      - History shows us that ambiguity of the higher overtones is what permits equal temperement
+     - it is here that crime, passion, and the law meet; justices resolve what is ambiguous
+     - By this token the law can mirror, not the times of its origin, but of its implementation
   3. Physics
   4. Song: Freudian ensemble
      - Ego: Root (Protagonist)
