@@ -1,3 +1,21 @@
+                1. Construct
+                            \
+          2. Metaphysics -> 4. Song -> 5. Art -> 6. Life
+                            /
+                            3. Physics
+
+
+1. Construct: Harmonic Series
+2. Metaphyics: Equal Temperament
+3. Phyiscs: Wave Theory
+4. Song: Freudian Ensemble
+5. Art: Chord Progression
+   - Outstanding voicing in "Casablanca
+      - Rick is [completely neutral](http://www.vincasa.com/casabla.pdf) about everything. And that takes in the field of women too
+      - You weren't always so carefully neutral. We have a complete dossier on you
+      - Richarch Blaine, American. Age, thirty-seve. Cannot return to his country
+6. Life: Eternal Recurrence
+
 This overview encapsulates the intricate interplay between various musical, philosophical, and existential constructs as they are mirrored in life and art, particularly through the lens of "Casablanca." Here's a summarization:
 
 ### 1. **Construct: Harmonic Series**
