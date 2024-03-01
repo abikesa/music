@@ -1,3 +1,5 @@
+# Mr. Perry take heed!
+
 Voice leading refers to the way individual melodic lines or voices move from one chord to the next in a piece of music. It's a crucial aspect of harmony that deals with the linear progression of notes, ensuring that each voice follows the smoothest, most musically satisfying path as chords change. Voice leading principles aim to create a cohesive and coherent musical flow, minimizing abrupt jumps and favoring stepwise motion or minimal movement where possible. Here are some key aspects of voice leading:
 
 1. **Smooth Movement**: Ideally, each voice moves to the closest possible note in the next chord. This minimizes leaps and maintains a smooth flow of music.
