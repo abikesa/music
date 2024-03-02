@@ -1,3 +1,9 @@
+# Reverence
+- Jackson Five: [I want you back](https://www.youtube.com/watch?v=s3Q80mk7bxE)
+- New Edition (i.e., of Jackson Five): [If it isn't love](https://www.youtube.com/watch?v=ReI6gvzVP0Y)
+- Beyoncé (Medeley: [Love on Top](https://www.youtube.com/watch?v=Vxjf3TdLbkQ), If it isn't Love, I want you back
+
+
 # Vanity Fair [Misrepresents Songwriter Beyonce](https://www.vanityfair.com/culture/2014/04/throwback-thursday-beyonce-jay-z-music-issue-2005)
 Tuesday, October 18, 2005
 By Roger Friedman
