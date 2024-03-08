@@ -4,7 +4,7 @@
                       /
                       3. Diatonic
 
-1. Harmonics
+1. [Harmonics](https://github.com/abikesa/dhatemwa/blob/main/prime.md)
    - Well, Cole Porter tells us that even [birds do it](https://www.youtube.com/watch?v=lXYKGL6MgKM): they sing when they fall in love
    - And we can correlate their melodies with our human musical constructs
 2. Pentatonic
