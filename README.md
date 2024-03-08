@@ -19,6 +19,7 @@
 4. Chromatic
    - Only the most nuanced will go so far as to hear the `upper harmonics` including the 17th & 19th
    - It's noteworthy that the 19th harmonic marks the emergence of the minor-third triad with relation to the fundamental (i.e., the 16th harmonic)
+   - And the 17th gives us the wormhole called a [Neapolitan](https://en.wikipedia.org/wiki/Neapolitan_chord#:~:text=In%20Classical%20music%20theory%2C%20a,of%20the%20corresponding%20Phrygian%20mode.) which segues the ear to another mode in a i-IV-V progression. The IV feels a bit "different", and as the first inversion of this chord (which could be serve as the root a Phrygian II root. Just listen to Lacrimosa!
 5. Temperament
    - Few human ears will be able to distinguish intervals beyond the 19th harmonic
    - Its perhaps in the 16th century late in the renaissance that Italians recognized this
