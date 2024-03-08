@@ -1,26 +1,31 @@
-          1. Construct
+          1. Harmonics
                       \
-    2. Metaphysics -> 4. Song -> Art -> Life
+     2. Pentatonic -> 4. Chromatic -> 5. Temperament -> 6. Expression
                       /
-                      3. Physics
+                      3. Diatonic
 
-1. Construct
-   - Grounded in metaphysics (harmonic series)
-2. Metaphysics
+1. Harmonics
+   - Well, Cole Porter tells us that even [birds do it](https://www.youtube.com/watch?v=lXYKGL6MgKM): they sing when they fall in love
+   - And we can correlate their melodies with our human musical constructs
+2. Pentatonic
+   - The `lower harmonics` 1st (foundational), 3rd (perfect fifth), 5th (major third), 7th (minor seventh), 9th (first extended chord) are the most audible
+   - Its from whence all ancient cultures across the world derive the pentatonic scale 
    - Empirically supported (equal temperement)
       - The best argument against purists. Here a midway compromise between "the truth" and "more freedom" to compose, orchestrate, modulate, and progress 
-3. Physics
+3. Diatonic
+   - But only a more sophisticated ear will pick the `mid-range harmonics` including the #11 and 13th
    - Harmony & dissonance are proof of authenticity (wave theory): frequency, amplitude, interference, `harmonics`, timbre
       - Of course harmonics are higher frequency tones that occur naturally alongside the fundamental tone when a note is played. They add richness, warmth, and complexity to the sound (wave theory)
-4. Song
-   - Relation on harmony to the solo protagonist who is narrator or in dialogue between metaphysics vs. physics (narrative journey)
-5. Art
-   - Indifferent/Passive: 7th; earlier, harmonics 
-      - [Amerie](https://en.wikipedia.org/wiki/1_Thing#Theme_and_sound): She told Blender that the "one thing" "could be bringing flowers, or something more ... physical. People think I'm just this [good girl](https://www.youtube.com/watch?v=CSXqpzdn2QQ), but there are other sides they don't see." (chord progression)
-   - Enabling/Verb: Others, Blues, Dorminants; furthest harmonics
-   - [Antagonistic](https://www.youtube.com/watch?v=GeoBFbcA-aM)/Proactive: 6th; limits craving resolution 
-6. Life
-   - Eternally recurrent tragic [quantized](https://www.youtube.com/watch?v=Q0FxVGan0_8) cadence of the same (grooves, pockets)
+4. Chromatic
+   - Only the most nuanced will go so far as to hear the `upper harmonics` including the 17th & 19th
+   - It's noteworthy that the 19th harmonic marks the emergence of the minor-third triad with relation to the fundamental (i.e., the 16th harmonic)
+5. Temperament
+   - Few human ears will be able to distinguish intervals beyond the 19th harmonic
+   - Its perhaps in the 16th century late in the renaissance that Italians recognized this
+   - And so they encoded all this in "scales", codified it in the piano "keys", and decoded a natural constraint
+   - Breaking free of this constraint to allow ensembles to perform and to also freely express them selves by modulation, a program culminating in equal temperament was began
+6. Expression
+   - African music has been stuck at pentatonic but compensated by developing very advanced pockets, rhythms, and grooves within which sound and dance might be channeled
       - Ancient
          - Greek
          - Byzantine
