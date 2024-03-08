@@ -31,4 +31,8 @@
          - Baroque
          - Classic
          - Romanticism
-      - Modern        
+      - [Modern](https://www.youtube.com/watch?v=UHXGBg6aCGE)
+         - I´m a prof. pianist and I know quite a few colleagues. And everyone of them was about to give up his profession after listening to Oscar Peterson in concert. 
+It´s not only his virtuosity or his `anatomy` (left hand span) that´s unbelievable, it´s his lightning-fast planning what to play next what´s even more jaw dropping. And that means that his `mental` precondition might have been even more exceptional than his sheer technical abilities.
+         - Of course the above statement misses something key: I briefly met Oscar Peterson inside the Royal York Hotel. Warm and friendly he said 'Hello'. He recorded songs that are more gospel than jazz with the most beautiful chord arrangements I have ever heard.
+         - Gospel teaches one how to `listen`, first by laying out the mental approach that gospel pros have used. Its the same that Bach used or any great improviser. Y'all professors can't get it since its like you learned how to read english before you could speak it   
