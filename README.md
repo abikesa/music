@@ -24,15 +24,17 @@
    - Harmony & dissonance are proof of authenticity (wave theory): frequency, amplitude, interference, `harmonics`, timbre
       - Of course harmonics are higher frequency tones that occur naturally alongside the fundamental tone when a note is played. They add richness, warmth, and complexity to the sound (wave theory)
 5. Chromatic
+   - Solo melodies include octave, pentatonic, diatonic, chromatic intervals
+   - However, the chorus is typically restricted to a [repetitive](https://www.youtube.com/watch?v=vYa3ak-3p60) [note](https://www.youtube.com/watch?v=4ts6Ep_KarE)
    - Only the most nuanced will go so far as to hear the `upper harmonics` including the 17th & 19th
    - It's noteworthy that the 19th harmonic marks the emergence of the minor-third triad with relation to the fundamental (i.e., the 16th harmonic)
    - And the 17th gives us the wormhole called a [Neapolitan](https://en.wikipedia.org/wiki/Neapolitan_chord#:~:text=In%20Classical%20music%20theory%2C%20a,of%20the%20corresponding%20Phrygian%20mode.) which segues the ear to another mode in a i-IV-V progression. The IV feels a bit "different", and as the first inversion of this chord (which could be serve as the root a Phrygian II root. Just listen to Lacrimosa!
-6. Temperament
+7. Temperament
    - Few human ears will be able to distinguish intervals beyond the 19th harmonic
    - Its perhaps in the 16th century late in the renaissance that Italians recognized this
    - And so they encoded all this in "scales", codified it in the piano "keys", and decoded a natural constraint
    - Breaking free of this constraint to allow ensembles to perform and to also freely express them selves by modulation, a program culminating in equal temperament was began
-7. Expression
+8. Expression
    - African music has been stuck at pentatonic but compensated by developing very advanced pockets, rhythms, and grooves within which sound and dance might be channeled
       - Ancient
          - Greek
