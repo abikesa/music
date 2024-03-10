@@ -14,7 +14,7 @@
       - Remember that while dreams are common to the Greco-Roman and Judeo-Christian views they yield moralities that are beyond good & evil (Greco-Roman) and entirely about heaven & hell (Judeo-Christian) 
 2. Pentatonic
    - Hades to the Greek is conceptualized as beyond good and evil since everyone ends up there; The christians create a dichotomy for the afterlife
-   - And so when we visit the upper reaches of the harmonic series (e.g. Semenya's testosterone levels) the Judeo-Christian view remains deaf and insists on the lower harmonics as "normal", indeed foundational of "good" and exemplary. In my view this is merely an issue of [sensory acquity](https://github.com/muzaale/thesis.md) and early-stage frailty!
+   - And so when we visit the upper reaches of the harmonic series (e.g. Semenya's testosterone levels) the Judeo-Christian view remains deaf and insists on the lower harmonics as "normal", indeed foundational of "good" and exemplary. In my view this is merely an issue of [sensory acquity](https://muzaale.github.io/thesis/act_0/act_0_0/act_0_0_0/act_0_0_0_2.html) and early-stage frailty!
    - The `lower harmonics` 1st (foundational), 3rd (perfect fifth), 5th (major third), 7th (minor seventh), 9th (first extended chord) are the most audible
    - Its from whence all ancient cultures across the world derive the pentatonic scale 
    - Empirically supported (equal temperement)
