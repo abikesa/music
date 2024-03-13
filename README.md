@@ -5,6 +5,7 @@
                       3. Diatonic
 
 1. [Root](https://github.com/abikesa/dhatemwa/blob/main/prime.md)
+   - A melody is like an auteur growing out of the root note to generate 19 harmonics. So its no wonder that such auteurs are considered geniuses. But a harmony is like Hollywood in its golden age as it produced films like [Casablanca](https://www.sparknotes.com/film/casablanca/section1/)
    - Well, Cole Porter tells us that even [birds do it](https://www.youtube.com/watch?v=lXYKGL6MgKM): they sing when they fall in love
    - And we can correlate their melodies with our human musical constructs
    - [Voir](https://www.youtube.com/watch?app=desktop&si=s8CAU0CP55LXSMHJ&v=QdcmuYpkkNA&feature=youtu.be): But how far up the harmomic series can the human ear go?
@@ -19,22 +20,26 @@
    - Its from whence all ancient cultures across the world derive the pentatonic scale 
    - Empirically supported (equal temperement)
       - The best argument against purists. Here a midway compromise between "the truth" and "more freedom" to compose, orchestrate, modulate, and progress 
-4. Diatonic
+3. Diatonic
    - But only a more sophisticated ear will pick the `mid-range harmonics` including the #11 and 13th
    - Harmony & dissonance are proof of authenticity (wave theory): frequency, amplitude, interference, `harmonics`, timbre
       - Of course harmonics are higher frequency tones that occur naturally alongside the fundamental tone when a note is played. They add richness, warmth, and complexity to the sound (wave theory)
-5. Chromatic
+4. Chromatic
    - Solo melodies include octave, pentatonic, diatonic, chromatic intervals
    - However, the chorus is typically restricted to a [repetitive](https://www.youtube.com/watch?v=vYa3ak-3p60) [note](https://www.youtube.com/watch?v=4ts6Ep_KarE)
    - Only the most nuanced will go so far as to hear the `upper harmonics` including the 17th & 19th
    - It's noteworthy that the 19th harmonic marks the emergence of the minor-third triad with relation to the fundamental (i.e., the 16th harmonic)
    - And the 17th gives us the wormhole called a [Neapolitan](https://en.wikipedia.org/wiki/Neapolitan_chord#:~:text=In%20Classical%20music%20theory%2C%20a,of%20the%20corresponding%20Phrygian%20mode.) which segues the ear to another mode in a i-IV-V progression. The IV feels a bit "different", and as the first inversion of this chord (which could be serve as the root a Phrygian II root. Just listen to Lacrimosa!
-7. Temperament
+5. Temperament
    - Few human ears will be able to distinguish intervals beyond the 19th harmonic
    - Its perhaps in the 16th century late in the renaissance that Italians recognized this
    - And so they encoded all this in "scales", codified it in the piano "keys", and decoded a natural constraint
    - Breaking free of this constraint to allow ensembles to perform and to also freely express them selves by modulation, a program culminating in equal temperament was began
-8. Expression
+6. Expression
+   - At core a melody (myself), harmony (selflessness of ensemble & harmonies), and pocket (`powers-that-be` who determe the cadence of school, work, and business) are what the music of life is in a nutshell:
+      - Withdrawal (Solo, solitude)
+      - Engagmeent (Ensemble, dramatis personnae)
+      - Imposition (Curfew, timetable, and the like) 
    - African music has been stuck at pentatonic but compensated by developing very advanced pockets, rhythms, and grooves within which sound and dance might be channeled
       - Ancient
          - Greek
