@@ -14,6 +14,6 @@
 5. Temperament
    - Mýa
 6. Expression
-   - Personal: Love on Top
-   - Social: This 1 Thing
-   - Existential: Requem Mass: Lacrimosa
+   - Personal: Love on Top (Phonetics)
+   - Social: This 1 Thing (Syntax)
+   - Existential: Requem Mass: Lacrimosa (Meaning)
