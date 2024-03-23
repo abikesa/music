@@ -62,11 +62,13 @@ To explore the genres of gospel music with a focus on harmonic tension, we'll co
 
 | Genre                        | Chord Types                                 | Tension Level          |  Hack |Gen|
 |------------------------------|---------------------------------------------|------------------------|---|-|
-| Traditional Gospel           | Triads, Dominant 7ths                       | Low                    | Primaries  |40s|
-| Worship                      | Sus chords, Add chords                      | Low to Moderate        | Tension  |50s|
-| Churchy (Gospel Blues)       | Dominant 7ths, 9ths, Blues scale            | Moderate               | Blues |60s|
-| R&B/Early Contemporary       | 7ths, 9ths, Elevenths                       | Moderate to High       | Secondaries|70s|   
-| Jazz/Late Contemporary       | 7ths, 9ths, 11ths, 13ths, Altered chords    | High                   | Extensions|80s|
+| `Traditional`/Hymnal           | Triads, Dominant 7ths                       | Low                    | Primaries  |40s|
+| `Soul`/Worship                     | Sus chords, Add chords                      | Low to Moderate        | Tension  |50s|
+| `Blues`/Churchy       | Dominant 7ths, 9ths, Blues scale            | Moderate               | Blues |60s|
+| `Rhythm`/Early      | 7ths, 9ths, Elevenths                       | Moderate to High       | [Secondaries](https://en.wikipedia.org/wiki/Uptown_Girl)|70s|   
+| `Jazz`/Late       | 7ths, 9ths, 11ths, 13ths, Altered chords    | High                   | Extensions|80s|
+
+*An Innocent Man, released in 1983, served as a homage to genres of music which Joel had grown up with in the 1950s, such as rhythm and blues and doo-wop; this release featured "Tell Her About It", "Uptown Girl" and "The Longest Time", three of his best-known songs*
 
 This table highlights the gradual increase in harmonic tension across gospel music genres, illustrating the evolution from simple triadic harmonies to complex jazz-infused chord structures. The use of extended and altered chords not only enriches the harmonic palette but also reflects a deeper emotional and spiritual expression within the music.
 
