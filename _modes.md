@@ -2,4 +2,4 @@
 - Diatonic: Soul/Worship
 - [Chromatic](https://www.youtube.com/watch?v=gcfwrd969BQ): Blues/Churchy
 - Temparence: RnB/Early
-- Expression: Jazz/Late
+- [Expression](https://www.youtube.com/watch?v=PJPRrd69SVU): Jazz/Late
