@@ -8,13 +8,13 @@
 
 
 ### Dionysus/Personal 1, 2, 3 
-   - A♭ Maj: Jackson 5, F min: New Edition, C Maj: Beyoncé (`Root, 3rd, 5th, 7th`)
+   - A♭ Maj: Jackson 5, F min: New Edition, C Maj: Beyoncé (`Root, 3rd, 5th, ♭♭7, 9th`)
 
-### Existential/Sing O Muse 4  
-   - Requem Mass: Lacrimosa (`9th, 11th, 13th`)
+### Existential/[Sing O Muse](mcr.md) [4](https://www.youtube.com/watch?v=XHxdrZ5fF2A) 
+   - Requem Mass: Lacrimosa (`11th, 13th`)
      
 ### Apollo/Social 5, 6 
-   - Mýa, This 1 Thing (`♭♭7,♭9,♯9,♯11,♭13`)
+   - Mýa, This 1 Thing (`♭9,♯9,♯11,♭13`)
  
    
    
