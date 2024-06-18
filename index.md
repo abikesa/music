@@ -10,7 +10,7 @@
 ### Dionysus/Personal 1, 2, 3 
    - A♭ Maj: Jackson 5, F min: New Edition, C Maj: [Beyoncé](https://abikesa.github.io/darkchild/) (`Root, 3rd, 5th, ♭♭7, 9th`)
 
-### Existential/[Sing O Muse](mcr.md) [4](https://www.youtube.com/watch?v=XHxdrZ5fF2A) 
+### [Existential](https://abikesa.github.io/homage-reharm/)/[Sing O Muse](mcr.md) [4](https://www.youtube.com/watch?v=XHxdrZ5fF2A) 
    - Requem Mass: Lacrimosa (`11th, 13th`)
      
 ### Apollo/Social 5, 6 
