@@ -29,8 +29,8 @@ alt: Two people, a woman and a man, waving next to a banner that says - welcome.
 *But there's an update to this* [BMC Geriatr. 2022; 22: 826, Published online 2022 Oct 27. doi: 10.1186/s12877-022-03511-8](10.1186/s12877-022-03511-8)
 ```
 
-We hope these resources will help you navigate, understand and be part of our community.
+The very best at MCR:
 
-[Mozart](../mozart.pdf)
-[Bach](../bach.pdf)
-[Handel](../handel.pdf)
+- [Mozart](https://abikesa.github.io/music/_downloads/270ce1dc688a64dec497dfe81d0966aa/mozart.pdf)    
+- [Bach](https://abikesa.github.io/music/_downloads/a207eb5446aa5d171a0ba97791498e49/bach.pdf)
+- [Handel](https://abikesa.github.io/music/_downloads/f1747777a15dcc72b5adef6cfcae8d8e/handel.pdf)
