@@ -30,3 +30,7 @@ alt: Two people, a woman and a man, waving next to a banner that says - welcome.
 ```
 
 We hope these resources will help you navigate, understand and be part of our community.
+
+[Mozart](../mozart.pdf)
+[Bach](../bach.pdf)
+[Handel](../handel.pdf)
