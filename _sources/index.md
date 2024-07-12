@@ -12,6 +12,20 @@
 
 <iframe width="100%" height="600px" src="https://www.youtube.com/embed/-vlHn8n1svk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+```{figure} figures/blanche.png
+---
+width: 1px
+height: 1px
+---
+_The House of Suntori_ represents the epitome of Japanese whisky craftsmanship, blending tradition and innovation. Founded in 1899, it has become a symbol of meticulous artistry, where each bottle tells a story of heritage and mastery. This figure embodies the essence of Suntori's philosophy, harmonizing nature and spirit in every drop.
+```
+
+> _landing {ref}`abc-landing`_      
+> _see {ref}`fw-aim2`_     
+> _also {ref}`rr-overview`_    
+> _education {ref}`rr-overview-barriers`_               
+> _psychology {ref}`rr-open-data`_   
+
 > *We are such stuff as dreams are made on*        
 > *And our little life is [rounded with a sleep](https://www.gutenberg.org/files/23042/23042-h/23042-h.htm)*    
 
@@ -33,19 +47,24 @@ Furthermore, the idea that dreams could function as a form of latent space explo
 
 This analogy elevates the discussion on dreams, framing them not just as random neural firings but as sophisticated, multimodal reflections of our inner worlds. It's a compelling way to think about the purpose and complexity of dreams, positioning them as an integral part of our cognitive and emotional processing systems.
 
+
+<iframe width="100%" height="600px" src="https://www.youtube.com/embed/jadWYEzk58Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ```{figure} figures/blanche.png
 ---
 width: 1px
 height: 1px
 ---
-_The House of Suntori_ represents the epitome of Japanese whisky craftsmanship, blending tradition and innovation. Founded in 1899, it has become a symbol of meticulous artistry, where each bottle tells a story of heritage and mastery. This figure embodies the essence of Suntori's philosophy, harmonizing nature and spirit in every drop.
+_Tribes decode heritage in unique ways_. But the artists from these different heritages also might emerge with very different ways to encode what their ancestors have seen, remembered, and felt. Some with levity, others with gravity.
 ```
 
-> _landing {ref}`abc-landing`_      
-> _see {ref}`fw-aim2`_     
-> _also {ref}`rr-overview`_    
-> _education {ref}`rr-overview-barriers`_               
-> _psychology {ref}`rr-open-data`_     
+That's an interesting comparison. Tyler Perry's films often use the church as a cornerstone of hope, with the pastor delivering uplifting messages, surrounded by soulful music that adds emotional gravity to the scenes. His films can feel like a vibrant church service, aiming to inspire and uplift audiences.
+
+On the other hand, the Coen Brothers often depict rabbis with a touch of absurdity. Their rabbis may deliver messages that are intentionally unconvincing or perplexing, accompanied by chanting that adds to the humor and irony of the situation. This approach reflects their unique style, which often blends dark comedy with philosophical musings, leaving audiences both amused and contemplative.
+
+These contrasting styles highlight how different filmmakers use religious figures and settings to evoke varying emotions and themes in their storytelling.
+
+> *The DAG below may help place all this in a broader context with more meaning*
 
 That's an insightful analogy! The collective unconscious as analogous to latent space suggests that just as `latent space` in machine `learning` models represents compressed, abstracted representations of data, the collective unconscious contains compressed, abstracted representations of shared human experiences and archetypes. This space holds potential patterns and insights that can be "decoded" or "activated" to generate new understandings and applications.
 
