@@ -94,15 +94,7 @@ alt: Sofia Coppola got me here :)
 _Consulting vs. Auditing_. While these industries have substantial overlap, they are not synonmous. One of them provides services required by law. The other remains a mystery.
 ```
 
-<iframe width="100%" height="600px" src="https://www.youtube.com/embed/-vlHn8n1svk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-```{figure} figures/blanche.png
----
-width: 1px
-height: 1px
----
-_As Time Goes By_ Compelling sheet music insofar as it sounds like the original performance
-```
 
 #### Table of Contents
 
