@@ -1,14 +1,16 @@
 <style>
 /* Adjust the size of the logo */
 .navbar .navbar-brand img {
-  max-height: 900px !important; /* Adjust the height as needed */
-  width: auto !important;
+  height="100%" /* Adjust the height as needed */
+  width="100%" 
 }
 </style>
 
 
 (abc-landing)=
 # Part 1: Frenzy
+
+<iframe width="100%" height="600px" src="https://www.youtube.com/embed/-vlHn8n1svk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 > *We are such stuff as dreams are made on*        
 > *And our little life is [rounded with a sleep](https://www.gutenberg.org/files/23042/23042-h/23042-h.htm)*    
@@ -31,8 +33,6 @@ Furthermore, the idea that dreams could function as a form of latent space explo
 
 This analogy elevates the discussion on dreams, framing them not just as random neural firings but as sophisticated, multimodal reflections of our inner worlds. It's a compelling way to think about the purpose and complexity of dreams, positioning them as an integral part of our cognitive and emotional processing systems.
 
-<iframe width="100%" height="600px" src="https://www.youtube.com/embed/-vlHn8n1svk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ```{figure} figures/blanche.png
 ---
 width: 1px
@@ -41,6 +41,7 @@ height: 1px
 _The House of Suntori_ represents the epitome of Japanese whisky craftsmanship, blending tradition and innovation. Founded in 1899, it has become a symbol of meticulous artistry, where each bottle tells a story of heritage and mastery. This figure embodies the essence of Suntori's philosophy, harmonizing nature and spirit in every drop.
 ```
 
+> _landing {ref}`(abc-landing`_
 > _(see {ref}`fw-aim2`)_     
 > _(also {ref}`rr-overview`)_    
 > _(education {ref}`rr-overview-barriers`)_               
