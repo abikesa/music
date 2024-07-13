@@ -1,4 +1,4 @@
-<a href="https://book.the-turing-way.org/welcome.html"><img src="https://static.dw.com/image/62054308_1004.webp" width="80%" align="Right" /></a>
+
 
 # _GMU [encoded](https://github.com/abikesa/music/blob/main/5-algorithm/structure-gmu.md)_
 
@@ -10,3 +10,5 @@
                                        /
                                        3. Melody-Scales
 
+
+<a href="https://book.the-turing-way.org/welcome.html"><img src="https://static.dw.com/image/62054308_1004.webp" width="80%" align="Right" /></a>
