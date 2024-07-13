@@ -29,6 +29,15 @@
 ### Preacher Chords
 ### Practice Exercises
 - Mechanical Technique
+   - Major scale (Octave)
+   - Advanced
+   - 3rds (75bpm)
+   - 6ths
+   - Contrary motion
+   - Expanded
+   - Chromatic scale
+   - Hanon method
+   - Pischna exercies
 - Functional Technique
 ### Gospel Styles
 - Traditional Hymns
@@ -36,3 +45,10 @@
 - Contemporary Gospel
 - Neo Soul
 - Worship/CCM
+
+
+                   1. Sensory-About
+                                   \
+             2. Memory-Calendar -> 4. Chords-Inversions -> 5. Rhythm-Metronome -> 6. Deployment-Members
+                                   /
+                                   3. Melody-Scales
