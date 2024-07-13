@@ -47,7 +47,7 @@
    - Band (exclude root; thats for bass guitarist; start on 3rd)
    - Diatonic chord progressions
    - Learn songs by ear 
-- Passing chords & embelling
+- Passing chords & embellishing
    - Rules
    - "Must know" for bass-lines
    - Chord stack passing movements
@@ -95,8 +95,8 @@
 - Worship/CCM
 
 
-                   1. Sensory-About
-                                   \
-             2. Memory-Calendar -> 4. Chords-Inversions -> 5. Rhythm-Metronome -> 6. Deployment-Members
-                                   /
-                                   3. Melody-Scales
+                        1. Ear Training
+                                       \
+             2. Thinking Like a Pro -> 4. Chords-Inversions -> 5. Rhythm-Metronome -> 6. Passing& Filling
+                                       /
+                                       3. Melody-Scales
