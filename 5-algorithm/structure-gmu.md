@@ -39,6 +39,18 @@
    - Hanon method
    - Pischna exercies
 - Functional Technique
+   - Inversions
+   - Triads (minor, major)
+   - 7th
+   - Dom
+   - Rootless & close voicing (50bpm)
+   - Diatonic progression
+      - w 2' dom
+      - w dim7 passing chords
+      - w min7b5 passing chords
+   - Drop 2 walkup
+   - Left hand inversions
+   - Chromatic tritone fills (3rd & b7 of dom)
 ### Gospel Styles
 - Traditional Hymns
 - Devotional Songs
