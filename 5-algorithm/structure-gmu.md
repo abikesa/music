@@ -1,4 +1,4 @@
-## Structure
+## `Structure`
                    
                    
                    1. Sensory-About
@@ -21,9 +21,45 @@
 - Members
 
 
-## Classroom
+## `Classroom`
 
 ### Chord Stack System
+- How to think like a pro
+   - MCR
+   - Shared notes
+   - Chord stack system
+   - Practice regimen
+   - Dealing with roadblocks 
+- Street smart theory
+   - Alphabet
+   - Number system & intervals
+   - Major scale
+   - Building chords
+   - Diatonic chords & importance
+   - Chord tensions
+   - Flash cards 
+- Chord stack categories
+   - Categories
+   - Using in songs
+   - Chords & emotions 
+- Voicing
+   - Solo
+   - Band (exclude root; thats for bass guitarist; start on 3rd)
+   - Diatonic chord progressions
+   - Learn songs by ear 
+- Passing chords & embelling
+   - Rules
+   - "Must know" for bass-lines
+   - Chord stack passing movements
+   - Filling in empty space w/Rhythm
+   - "Inner" fill-ins (voice leads)
+   - "Stacking" voice leads together
+   - Adding rhythm to your playing 
+- Reharm songs
+   - Tensions chords vs. release chords
+   - Balancing regular chords and reharm chords
+   - `The "Broken" 251 concept`
+   - Using "shared notes" in reharm 
 ### Organ Bootcamp
 ### Ear Training  
 ### Preacher Chords
