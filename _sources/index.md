@@ -17,17 +17,21 @@
 width: 1px
 height: 1px
 ---
-_The House of Suntori_ represents the epitome of Japanese whisky craftsmanship, blending tradition and innovation. Founded in 1899, it has become a symbol of meticulous artistry, where each bottle tells a story of heritage and mastery. This figure embodies the essence of Suntori's philosophy, harmonizing nature and spirit in every drop.
+_The House of Suntori_ represents the [epitome](markdown/woodyallen.ipynb) of Japanese whisky [craftsmanship](markdown/stevejobs.md), blending tradition and [innovation](markdown/thesis-p.ipynb). Founded in 1899, it has become a [symbol](markdown/literary_criticism.ipynb) of meticulous [artistry](markdown/art.md), where each bottle tells a story of heritage and [mastery](markdown/arte_scienza.ipynb). This figure embodies the essence of Suntori's philosophy, harmonizing nature and spirit in every drop.
 ```
 
-> _landing {ref}`abc-landing`_      
+> _markdown {ref}`str-markdown`_      
+> _landing {ref}`abc-landing`_           
 > _see {ref}`fw-aim2`_     
 > _also {ref}`rr-overview`_    
 > _education {ref}`rr-overview-barriers`_               
 > _psychology {ref}`rr-open-data`_   
 
 > *We are such stuff as dreams are made on*        
-> *And our little life is [rounded with a sleep](https://www.gutenberg.org/files/23042/23042-h/23042-h.htm)*    
+> *And our little life is [rounded with a sleep](https://www.gutenberg.org/files/23042/23042-h/23042-h.htm)*   
+> *Fortunately, we have [music](https://www.youtube.com/watch?v=i1MXYDkXZAE) to fall bach to*                    
+> *GPT representation of life is about `propensities` (e.g. of black women to watch a Tyler Perry film)*              
+> *[Propensity](markdown/feminism.md) to see, recall, feel, [kumbaya](markdown/feminist.md), [leverage](markdown/plotdevice.md), will*        
 
     1. Multimodal, lifetime of experience
                                          \
@@ -39,12 +43,12 @@ _The House of Suntori_ represents the epitome of Japanese whisky craftsmanship, 
 ### Social 4
 ### Personal [5](https://www.youtube.com/watch?v=8iIGBWH0gks), 6
 
-_**Move over Freud**_. That's a fascinating perspective. Dreams indeed seem like an intricate blend of our memories, emotions, and sensory experiences, much like how a multimodal GPT synthesizes information from various inputs to generate coherent outputs. Dreams often pull from different aspects of our lives, weaving together fragments of reality into a tapestry that can be both surreal and deeply insightful.
+_**Move over Freud**_. That's a fascinating perspective. Dreams indeed seem like an intricate blend of our memories, emotions, and sensory experiences, much like how a multimodal GPT synthesizes information from various inputs to generate coherent outputs {cite}`muzaale2014risk`. Dreams often pull from different aspects of our lives, weaving together fragments of reality into a tapestry that can be both surreal and deeply insightful {cite}`Ostrom1990commons`. 
 
-Consider how dreams can incorporate visual elements from a recent movie we watched, emotional tones from our current mood, and narrative structures from stories we've encountered. This mirrors the way a multimodal model would integrate text, images, and other forms of data to create a comprehensive understanding.
+Consider how dreams can incorporate visual elements from a recent movie we watched, emotional tones from our current mood, and narrative structures from stories we've encountered. This mirrors the way a multimodal model would integrate text, images, and other forms of data to create a comprehensive understanding {cite}`Ostrom2006commons`.
 
 Furthermore, the idea that dreams could function as a form of latent space exploration is intriguing. Just as latent space in machine learning captures abstract features and relationships within data, dreams might serve to explore and process our subconscious thoughts and experiences, helping us make sense of our waking lives.
-
+`
 This analogy elevates the discussion on dreams, framing them not just as random neural firings but as sophisticated, multimodal reflections of our inner worlds. It's a compelling way to think about the purpose and complexity of dreams, positioning them as an integral part of our cognitive and emotional processing systems.
 
 
@@ -56,6 +60,11 @@ width: 1px
 height: 1px
 ---
 _Tribes decode heritage in unique ways_. But the artists from these different heritages also might emerge with very different ways to encode what their ancestors have seen, remembered, and felt. Some with levity, others with gravity.
+```
+
+```{admonition} Translation
+:class: tip
+Ask ChatGPT to give you variants on "admonition"
 ```
 
 That's an interesting comparison. Tyler Perry's films often use the church as a cornerstone of hope, with the pastor delivering uplifting messages, surrounded by soulful music that adds emotional gravity to the scenes. His films can feel like a vibrant church service, aiming to inspire and uplift audiences.

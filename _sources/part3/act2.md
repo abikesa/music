@@ -1,7 +1,6 @@
-(rr-open)=
+(rr-review)=
 # Review
 
-(rr-open-prerequisites)=
 ## JAMA
 
 <iframe src="part2/251416_0.pdf" width="200%" height="600px" style="borders:none"></iframe>
