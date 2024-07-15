@@ -1,14 +1,18 @@
-
-
-# _GMU [encoded](https://github.com/abikesa/music/blob/main/5-algorithm/structure-gmu.md)_
-
-
-
-                       1. Ear-Intervals
-                                       \
-              2. Theory-Vocabulary ->  4. Chords-Inversions -> 5. Rhythm-Metronome -> 6. Passing & Filling 
-                                       /
-                                       3. Melody-Scales
-
-
-<a href="https://book.the-turing-way.org/welcome.html"><img src="https://static.dw.com/image/62054308_1004.webp" width="80%" align="Right" /></a>
+                            1. Root
+                                   \
+                  2. Pentatonic -> 4. Chromatic -> 5. Temperament -> 6. Expression
+                                   /
+                                   3. Diatonic
+1. Root
+2. Pentatonic
+3. Diatonic
+4. Chromatic
+5. Temperament
+6. Expression
+    - Personal
+       - Emasculated dad
+       - [Mummy issues](https://unherd.com/2020/03/the-idiotic-mistreatment-of-woody-allen/)
+          - Just like Tarantino 
+       - Fond of younger sister 
+    - Social
+    - Existential. Only intellectual. No convincing characters (Chigurh, A Serious Man, The Dude)  

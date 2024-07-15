@@ -1,4 +1,4 @@
-(rr-open-hardware)=
+(rr-ntz)=
 # 4.3
  
 ## Nietzsche
