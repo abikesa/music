@@ -9,7 +9,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
-    <title>Logo &#8212; Template</title>
+    <title>Logo &#8212; The Gambler</title>
   
   
   
@@ -162,8 +162,8 @@
       
     
     
-    <img src="https://github.com/jhufena/jhufena.github.io/blob/main/png/hub_and_spoke.jpg?raw=true" class="logo__image only-light" alt="Template - Home"/>
-    <script>document.write(`<img src="https://github.com/jhufena/jhufena.github.io/blob/main/png/hub_and_spoke.jpg?raw=true" class="logo__image only-dark" alt="Template - Home"/>`);</script>
+    <img src="https://facts.net/wp-content/uploads/2023/07/16-facts-about-roulette-1690805803.jpg" class="logo__image only-light" alt="The Gambler - Home"/>
+    <script>document.write(`<img src="https://facts.net/wp-content/uploads/2023/07/16-facts-about-roulette-1690805803.jpg" class="logo__image only-dark" alt="The Gambler - Home"/>`);</script>
   
   
 </a></div>
@@ -203,10 +203,10 @@
 </details></li>
 <li class="toctree-l2 has-children"><a class="reference internal" href="../act3/act2.html">Deployment</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
 <li class="toctree-l3"><a class="reference internal" href="../act3/part2/part2_1.html">GitHub</a></li>
-<li class="toctree-l3"><a class="reference internal" href="../act3/part2/part2_2.html">4.2</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../act3/part2/part2_2.html">Tradition</a></li>
 
 
-<li class="toctree-l3"><a class="reference internal" href="../act3/part2/part2_3.html">4.3</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../act3/part2/part2_3.html">Nietzsche</a></li>
 
 </ul>
 </details></li>
@@ -522,7 +522,7 @@ document.write(`
 
 <span class="k">def</span> <span class="nf">add_fern_edges</span><span class="p">(</span><span class="n">G</span><span class="p">,</span> <span class="n">start</span><span class="p">,</span> <span class="n">depth</span><span class="p">,</span> <span class="n">angle</span><span class="p">,</span> <span class="n">scale</span><span class="p">):</span>
     <span class="k">if</span> <span class="n">depth</span> <span class="o">==</span> <span class="mi">0</span><span class="p">:</span>
-        <span class="k">return</span>
+        <span class="k">return</span> <span class="n">start</span>
     
     <span class="n">end</span> <span class="o">=</span> <span class="p">(</span><span class="n">start</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">+</span> <span class="n">scale</span> <span class="o">*</span> <span class="n">angle</span><span class="p">[</span><span class="mi">0</span><span class="p">],</span> <span class="n">start</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span> <span class="o">+</span> <span class="n">scale</span> <span class="o">*</span> <span class="n">angle</span><span class="p">[</span><span class="mi">1</span><span class="p">])</span>
     
@@ -531,21 +531,36 @@ document.write(`
     <span class="n">new_angle1</span> <span class="o">=</span> <span class="p">(</span><span class="n">angle</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">*</span> <span class="mf">0.6</span> <span class="o">-</span> <span class="n">angle</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span> <span class="o">*</span> <span class="mf">0.4</span><span class="p">,</span> <span class="n">angle</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">*</span> <span class="mf">0.4</span> <span class="o">+</span> <span class="n">angle</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span> <span class="o">*</span> <span class="mf">0.6</span><span class="p">)</span>
     <span class="n">new_angle2</span> <span class="o">=</span> <span class="p">(</span><span class="n">angle</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">*</span> <span class="mf">0.6</span> <span class="o">+</span> <span class="n">angle</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span> <span class="o">*</span> <span class="mf">0.4</span><span class="p">,</span> <span class="o">-</span><span class="n">angle</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">*</span> <span class="mf">0.4</span> <span class="o">+</span> <span class="n">angle</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span> <span class="o">*</span> <span class="mf">0.6</span><span class="p">)</span>
     
-    <span class="n">add_fern_edges</span><span class="p">(</span><span class="n">G</span><span class="p">,</span> <span class="n">end</span><span class="p">,</span> <span class="n">depth</span> <span class="o">-</span> <span class="mi">1</span><span class="p">,</span> <span class="n">new_angle1</span><span class="p">,</span> <span class="n">scale</span> <span class="o">*</span> <span class="mf">0.7</span><span class="p">)</span>
-    <span class="n">add_fern_edges</span><span class="p">(</span><span class="n">G</span><span class="p">,</span> <span class="n">end</span><span class="p">,</span> <span class="n">depth</span> <span class="o">-</span> <span class="mi">1</span><span class="p">,</span> <span class="n">new_angle2</span><span class="p">,</span> <span class="n">scale</span> <span class="o">*</span> <span class="mf">0.7</span><span class="p">)</span>
+    <span class="n">child1</span> <span class="o">=</span> <span class="n">add_fern_edges</span><span class="p">(</span><span class="n">G</span><span class="p">,</span> <span class="n">end</span><span class="p">,</span> <span class="n">depth</span> <span class="o">-</span> <span class="mi">1</span><span class="p">,</span> <span class="n">new_angle1</span><span class="p">,</span> <span class="n">scale</span> <span class="o">*</span> <span class="mf">0.7</span><span class="p">)</span>
+    <span class="n">child2</span> <span class="o">=</span> <span class="n">add_fern_edges</span><span class="p">(</span><span class="n">G</span><span class="p">,</span> <span class="n">end</span><span class="p">,</span> <span class="n">depth</span> <span class="o">-</span> <span class="mi">1</span><span class="p">,</span> <span class="n">new_angle2</span><span class="p">,</span> <span class="n">scale</span> <span class="o">*</span> <span class="mf">0.7</span><span class="p">)</span>
     
+    <span class="k">return</span> <span class="n">end</span>
+
 <span class="k">def</span> <span class="nf">create_fern_graph</span><span class="p">(</span><span class="n">depth</span><span class="p">,</span> <span class="n">scale</span><span class="o">=</span><span class="mi">1</span><span class="p">):</span>
     <span class="n">G</span> <span class="o">=</span> <span class="n">nx</span><span class="o">.</span><span class="n">Graph</span><span class="p">()</span>
     <span class="n">start</span> <span class="o">=</span> <span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">0</span><span class="p">)</span>
     <span class="n">angle</span> <span class="o">=</span> <span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">1</span><span class="p">)</span>
     
-    <span class="n">add_fern_edges</span><span class="p">(</span><span class="n">G</span><span class="p">,</span> <span class="n">start</span><span class="p">,</span> <span class="n">depth</span><span class="p">,</span> <span class="n">angle</span><span class="p">,</span> <span class="n">scale</span><span class="p">)</span>
+    <span class="n">child1</span> <span class="o">=</span> <span class="n">add_fern_edges</span><span class="p">(</span><span class="n">G</span><span class="p">,</span> <span class="n">start</span><span class="p">,</span> <span class="n">depth</span><span class="p">,</span> <span class="n">angle</span><span class="p">,</span> <span class="n">scale</span><span class="p">)</span>
     
-    <span class="k">return</span> <span class="n">G</span>
+    <span class="k">return</span> <span class="n">G</span><span class="p">,</span> <span class="n">start</span><span class="p">,</span> <span class="n">child1</span>
 
 <span class="c1"># Generate the fern graph</span>
 <span class="n">fern_depth</span> <span class="o">=</span> <span class="mi">7</span>  <span class="c1"># Adjust depth for more or fewer branches</span>
-<span class="n">fern_graph</span> <span class="o">=</span> <span class="n">create_fern_graph</span><span class="p">(</span><span class="n">fern_depth</span><span class="p">)</span>
+<span class="n">fern_graph</span><span class="p">,</span> <span class="n">father</span><span class="p">,</span> <span class="n">son</span> <span class="o">=</span> <span class="n">create_fern_graph</span><span class="p">(</span><span class="n">fern_depth</span><span class="p">)</span>
+
+<span class="c1"># Find the children of &quot;Father&quot;</span>
+<span class="n">children</span> <span class="o">=</span> <span class="nb">list</span><span class="p">(</span><span class="n">fern_graph</span><span class="o">.</span><span class="n">neighbors</span><span class="p">(</span><span class="n">father</span><span class="p">))</span>
+
+<span class="c1"># Ensure there are at least two children</span>
+<span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">children</span><span class="p">)</span> <span class="o">&gt;=</span> <span class="mi">2</span><span class="p">:</span>
+    <span class="c1"># Label the edges as &quot;Son&quot; and &quot;HolySpirit&quot;</span>
+    <span class="n">edge_labels</span> <span class="o">=</span> <span class="p">{</span>
+        <span class="p">(</span><span class="n">father</span><span class="p">,</span> <span class="n">children</span><span class="p">[</span><span class="mi">0</span><span class="p">]):</span> <span class="s2">&quot;Son&quot;</span><span class="p">,</span>
+        <span class="p">(</span><span class="n">father</span><span class="p">,</span> <span class="n">children</span><span class="p">[</span><span class="mi">1</span><span class="p">]):</span> <span class="s2">&quot;HolySpirit&quot;</span>
+    <span class="p">}</span>
+<span class="k">else</span><span class="p">:</span>
+    <span class="n">edge_labels</span> <span class="o">=</span> <span class="p">{}</span>
 
 <span class="c1"># Define colors</span>
 <span class="n">leaf_color</span> <span class="o">=</span> <span class="s1">&#39;#5F9E54&#39;</span>  <span class="c1"># A green between lime and cabbage</span>
@@ -561,6 +576,10 @@ document.write(`
 <span class="n">pos</span> <span class="o">=</span> <span class="p">{</span><span class="n">node</span><span class="p">:</span> <span class="n">node</span> <span class="k">for</span> <span class="n">node</span> <span class="ow">in</span> <span class="n">fern_graph</span><span class="o">.</span><span class="n">nodes</span><span class="p">()}</span>
 <span class="n">nx</span><span class="o">.</span><span class="n">draw</span><span class="p">(</span><span class="n">fern_graph</span><span class="p">,</span> <span class="n">pos</span><span class="p">,</span> <span class="n">with_labels</span><span class="o">=</span><span class="kc">False</span><span class="p">,</span> <span class="n">node_size</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span> <span class="n">edge_color</span><span class="o">=</span><span class="n">colors</span><span class="p">,</span> <span class="n">width</span><span class="o">=</span><span class="mi">2</span><span class="p">)</span>
 
+<span class="c1"># Draw edge labels if they exist</span>
+<span class="k">if</span> <span class="n">edge_labels</span><span class="p">:</span>
+    <span class="n">nx</span><span class="o">.</span><span class="n">draw_networkx_edge_labels</span><span class="p">(</span><span class="n">fern_graph</span><span class="p">,</span> <span class="n">pos</span><span class="p">,</span> <span class="n">edge_labels</span><span class="o">=</span><span class="n">edge_labels</span><span class="p">,</span> <span class="n">font_size</span><span class="o">=</span><span class="mi">12</span><span class="p">)</span>
+
 <span class="n">plt</span><span class="o">.</span><span class="n">axis</span><span class="p">(</span><span class="s1">&#39;off&#39;</span><span class="p">)</span>
 
 <span class="c1"># Save the image</span>
@@ -574,6 +593,12 @@ document.write(`
 <img alt="../_images/6e3efdc487371d93e0c3060bb272eb87b38dbf6dc9b41975f1096a17b658416b.png" src="../_images/6e3efdc487371d93e0c3060bb272eb87b38dbf6dc9b41975f1096a17b658416b.png" />
 </div>
 </div>
+<figure class="align-default" id="id2">
+<a class="reference internal image-reference" href="../_images/blanche.png"><img alt="../_images/blanche.png" src="../_images/blanche.png" style="width: 1px; height: 1px;" /></a>
+<figcaption>
+<p><span class="caption-text"><em>Extraordinary</em>. Parent is “Father” and children are “Son” and “Holy Spirit”. Everything else springs from these two children: the wave-particle duality of the entire cosmos!</span><a class="headerlink" href="#id2" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
 <aside class="margin sidebar">
 <p class="sidebar-title"></p>
 <Details>
@@ -651,78 +676,75 @@ document.write(`
 <Details>
    <Summary>_config.yml</Summary>
 <p>Experiment with a cropped version of <code class="docutils literal notranslate"><span class="pre">../figures/hub_and_spoke.png</span></code> or revert to the template below</p>
-<div class="highlight-yoml notranslate"><div class="highlight"><pre><span></span>
-# A default configuration that will be loaded for all jupyter books
-# Users are expected to override these values in their own `_config.yml` file.
-# This is also the &quot;master list&quot; of all allowed keys and values.
+<div class="highlight-yaml notranslate"><div class="highlight"><pre><span></span><span class="c1"># A default configuration that will be loaded for all jupyter books</span>
+<span class="c1"># Users are expected to override these values in their own `_config.yml` file.</span>
+<span class="c1"># This is also the &quot;master list&quot; of all allowed keys and values.</span>
 
-#######################################################################################
-# Book settings
-title                       : Template  # The title of the book. Will be placed in the left navbar.
-author                      :   # The author of the book
-copyright                   : &quot;2025&quot;  # Copyright year to be placed in the footer
-logo                        : &quot;https://github.com/jhufena/jhufena.github.io/blob/main/png/hub_and_spoke.jpg?raw=true&quot;  # A path to the book logo
-email                       : &quot;abikesa.sh@gmail.com&quot;
-exclude_patterns            : [&quot;LICENSE.md&quot;]  # Patterns to skip when building the book. Can be glob-style (for example &quot;*skip.ipynb&quot;)
+<span class="c1">#######################################################################################</span>
+<span class="c1"># Book settings</span>
+<span class="nt">title                       </span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">Template</span><span class="w">  </span><span class="c1"># The title of the book. Will be placed in the left navbar.</span>
+<span class="nt">author                      </span><span class="p">:</span><span class="w">   </span><span class="c1"># The author of the book</span>
+<span class="nt">copyright                   </span><span class="p">:</span><span class="w"> </span><span class="s">&quot;2025&quot;</span><span class="w">  </span><span class="c1"># Copyright year to be placed in the footer</span>
+<span class="nt">logo                        </span><span class="p">:</span><span class="w"> </span><span class="s">&quot;https://github.com/jhufena/jhufena.github.io/blob/main/png/hub_and_spoke.jpg?raw=true&quot;</span><span class="w">  </span><span class="c1"># A path to the book logo</span>
+<span class="nt">email                       </span><span class="p">:</span><span class="w"> </span><span class="s">&quot;abikesa.sh@gmail.com&quot;</span>
+<span class="nt">exclude_patterns            </span><span class="p">:</span><span class="w"> </span><span class="p p-Indicator">[</span><span class="s">&quot;LICENSE.md&quot;</span><span class="p p-Indicator">]</span><span class="w">  </span><span class="c1"># Patterns to skip when building the book. Can be glob-style (for example &quot;*skip.ipynb&quot;)</span>
 
-#######################################################################################
-# Execution settings
-execute:
-execute_notebooks         : auto  # Whether to execute notebooks at build time. Must be one of (&quot;auto&quot;, &quot;force&quot;, &quot;cache&quot;, &quot;off&quot;)
-cache                     : &quot;&quot;  # A path to the jupyter cache that will be used to store execution artifacts. Defaults to `_build/.jupyter_cache/`
-exclude_patterns          : [&quot;LICENSE.md&quot;]  # A list of patterns to *skip* in execution (for example a notebook that takes a really long time)
+<span class="c1">#######################################################################################</span>
+<span class="c1"># Execution settings</span>
+<span class="nt">execute</span><span class="p">:</span>
+<span class="nt">execute_notebooks         </span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">auto</span><span class="w">  </span><span class="c1"># Whether to execute notebooks at build time. Must be one of (&quot;auto&quot;, &quot;force&quot;, &quot;cache&quot;, &quot;off&quot;)</span>
+<span class="nt">cache                     </span><span class="p">:</span><span class="w"> </span><span class="s">&quot;&quot;</span><span class="w">  </span><span class="c1"># A path to the jupyter cache that will be used to store execution artifacts. Defaults to `_build/.jupyter_cache/`</span>
+<span class="nt">exclude_patterns          </span><span class="p">:</span><span class="w"> </span><span class="p p-Indicator">[</span><span class="s">&quot;LICENSE.md&quot;</span><span class="p p-Indicator">]</span><span class="w">  </span><span class="c1"># A list of patterns to *skip* in execution (for example a notebook that takes a really long time)</span>
 
-#######################################################################################
-# HTML-specific settings
-html:
-navbar_number_sections    : False  # Add a number to each section in your left navbar
-home_page_in_navbar       : False  # Whether to include your home page in the left Navigation Bar; I like this!!!!!!!
-use_repository_button     : False  # Whether to add an &quot;Repository&quot; button to pages. If `true`, repository information in repository: must be filled in
-use_issues_button         : False  # Whether to add an &quot;Open issue&quot; button to pages. If `true`, repository information in repository: must be filled in
-use_edit_page_button      : False  # Whether to add an &quot;Suggest edit&quot; button to pages. If `true`, repository information in repository: must be filled in
-extra_footer              : |
-Copyright © 2025 ADM
-comments:
- hypothesis              : False # For data collection in top right corner
-extra_css:
- - &quot;_static/custom.css&quot;
+<span class="c1">#######################################################################################</span>
+<span class="c1"># HTML-specific settings</span>
+<span class="nt">html</span><span class="p">:</span>
+<span class="nt">navbar_number_sections    </span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">False</span><span class="w">  </span><span class="c1"># Add a number to each section in your left navbar</span>
+<span class="nt">home_page_in_navbar       </span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">False</span><span class="w">  </span><span class="c1"># Whether to include your home page in the left Navigation Bar; I like this!!!!!!!</span>
+<span class="nt">use_repository_button     </span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">False</span><span class="w">  </span><span class="c1"># Whether to add an &quot;Repository&quot; button to pages. If `true`, repository information in repository: must be filled in</span>
+<span class="nt">use_issues_button         </span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">False</span><span class="w">  </span><span class="c1"># Whether to add an &quot;Open issue&quot; button to pages. If `true`, repository information in repository: must be filled in</span>
+<span class="nt">use_edit_page_button      </span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">False</span><span class="w">  </span><span class="c1"># Whether to add an &quot;Suggest edit&quot; button to pages. If `true`, repository information in repository: must be filled in</span>
+<span class="nt">extra_footer              </span><span class="p">:</span><span class="w"> </span><span class="p p-Indicator">|</span>
+<span class="l l-Scalar l-Scalar-Plain">Copyright © 2025 ADM</span>
+<span class="nt">comments</span><span class="p">:</span>
+<span class="w"> </span><span class="nt">hypothesis              </span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">False</span><span class="w"> </span><span class="c1"># For data collection in top right corner</span>
+<span class="nt">extra_css</span><span class="p">:</span>
+<span class="w"> </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="s">&quot;_static/custom.css&quot;</span>
 
-#######################################################################################
-# Launch button settings
-launch_buttons:
-notebook_interface        : &quot;classic&quot;  # The interface interactive links will activate [&quot;classic&quot;, &quot;jupyterlab&quot;]
-binderhub_url             : &quot;https://mybinder.org&quot;  # The URL of the BinderHub (for example, https://mybinder.org)
-jupyterhub_url            : &quot;&quot;  # The URL of the JupyterHub (for example, https://datahub.berkeley.edu)
-thebelab                  : false  # Add a thebelab button to pages (requires the repository to run on Binder)
+<span class="c1">#######################################################################################</span>
+<span class="c1"># Launch button settings</span>
+<span class="nt">launch_buttons</span><span class="p">:</span>
+<span class="nt">notebook_interface        </span><span class="p">:</span><span class="w"> </span><span class="s">&quot;classic&quot;</span><span class="w">  </span><span class="c1"># The interface interactive links will activate [&quot;classic&quot;, &quot;jupyterlab&quot;]</span>
+<span class="nt">binderhub_url             </span><span class="p">:</span><span class="w"> </span><span class="s">&quot;https://mybinder.org&quot;</span><span class="w">  </span><span class="c1"># The URL of the BinderHub (for example, https://mybinder.org)</span>
+<span class="nt">jupyterhub_url            </span><span class="p">:</span><span class="w"> </span><span class="s">&quot;&quot;</span><span class="w">  </span><span class="c1"># The URL of the JupyterHub (for example, https://datahub.berkeley.edu)</span>
+<span class="nt">thebelab                  </span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">false</span><span class="w">  </span><span class="c1"># Add a thebelab button to pages (requires the repository to run on Binder)</span>
 
-repository:
-url                       : https://github.com/abikesa/template # The URL to your book&#39;s repository
-path_to_book              : &quot;book/website&quot;  # A path to your book&#39;s folder, relative to the repository root.
-branch                    : main
+<span class="nt">repository</span><span class="p">:</span>
+<span class="nt">url                       </span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">https://github.com/abikesa/template</span><span class="w"> </span><span class="c1"># The URL to your book&#39;s repository</span>
+<span class="nt">path_to_book              </span><span class="p">:</span><span class="w"> </span><span class="s">&quot;book/website&quot;</span><span class="w">  </span><span class="c1"># A path to your book&#39;s folder, relative to the repository root.</span>
+<span class="nt">branch                    </span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">main</span>
 
-#######################################################################################
-# Advanced and power-user settings
-sphinx:
-extra_extensions          :
-   - &#39;sphinx_panels&#39;
-   - &#39;sphinxcontrib.bibtex&#39;
-config                    :  # key-value pairs to directly over-ride the Sphinx configuration
- language                : en
- html_show_copyright     : false
- suppress_warnings       :
-     - &#39;app.add_node&#39;
-     - &#39;app.add_directive&#39;
-     - &#39;app.add_role&#39;
- myst_heading_anchors    : 5
- bibtex_bibfiles         :
-   - _bibliography/references.bib
- bibtex_reference_order: &#39;citation&#39; 
- bibtex_default_style: &#39;unsrt&#39; # &#39;plain&#39; 
- bibtex_reference_style: &#39;super&#39; # &#39;label&#39; # &#39;author_year&#39; (this worked)
- bibtex_cite_style: &#39;super&#39; #&#39;numeric&#39; (for diff. jb version)
- bibtex_footbibliography_header: &#39;&#39;
-
-
+<span class="c1">#######################################################################################</span>
+<span class="c1"># Advanced and power-user settings</span>
+<span class="nt">sphinx</span><span class="p">:</span>
+<span class="nt">extra_extensions          </span><span class="p">:</span>
+<span class="w">   </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="s">&#39;sphinx_panels&#39;</span>
+<span class="w">   </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="s">&#39;sphinxcontrib.bibtex&#39;</span>
+<span class="nt">config                    </span><span class="p">:</span><span class="w">  </span><span class="c1"># key-value pairs to directly over-ride the Sphinx configuration</span>
+<span class="w"> </span><span class="nt">language                </span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">en</span>
+<span class="w"> </span><span class="nt">html_show_copyright     </span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">false</span>
+<span class="w"> </span><span class="nt">suppress_warnings       </span><span class="p">:</span>
+<span class="w">     </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="s">&#39;app.add_node&#39;</span>
+<span class="w">     </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="s">&#39;app.add_directive&#39;</span>
+<span class="w">     </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="s">&#39;app.add_role&#39;</span>
+<span class="w"> </span><span class="nt">myst_heading_anchors    </span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">5</span>
+<span class="w"> </span><span class="nt">bibtex_bibfiles         </span><span class="p">:</span>
+<span class="w">   </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">_bibliography/references.bib</span>
+<span class="w"> </span><span class="nt">bibtex_reference_order</span><span class="p">:</span><span class="w"> </span><span class="s">&#39;citation&#39;</span><span class="w"> </span>
+<span class="w"> </span><span class="nt">bibtex_default_style</span><span class="p">:</span><span class="w"> </span><span class="s">&#39;unsrt&#39;</span><span class="w"> </span><span class="c1"># &#39;plain&#39; </span>
+<span class="w"> </span><span class="nt">bibtex_reference_style</span><span class="p">:</span><span class="w"> </span><span class="s">&#39;super&#39;</span><span class="w"> </span><span class="c1"># &#39;label&#39; # &#39;author_year&#39; (this worked)</span>
+<span class="w"> </span><span class="nt">bibtex_cite_style</span><span class="p">:</span><span class="w"> </span><span class="s">&#39;super&#39;</span><span class="w"> </span><span class="c1">#&#39;numeric&#39; (for diff. jb version)</span>
+<span class="w"> </span><span class="nt">bibtex_footbibliography_header</span><span class="p">:</span><span class="w"> </span><span class="s">&#39;&#39;</span>
 </pre></div>
 </div>
 </Details>
