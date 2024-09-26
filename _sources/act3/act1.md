@@ -1,46 +1,34 @@
-(act3-webApp)=
-# Rankings
-We draw a connection between Nietzsche's critique of historical use and the recent events surrounding the toppling of monuments during the pandemic and the George Floyd protests. Nietzsche warned against a one-sided, critical approach to history that seeks only to deconstruct and criticize the past without appreciating its inspiring (monumental) or preservational (antiquarian) roles. 
+# Act 1
+Ranking the greatest composers in Western classical music is a thrilling but daunting task! Here’s my top 20, ranked based on their contributions to form, innovation, influence, and sheer genius. This list leans heavily on the impact they had on the evolution of Western classical music, both in their own time and on future generations. I'll explain my choices with a brief justification for each.
 
-The destruction of monuments, especially those connected to colonialism or slavery, resonates with Nietzsche's idea of history being "used" or "abused" based on present needs. In this case, the critical aspect of history was deployed to question and dismantle symbols of oppression, but perhaps without the balancing acts of remembering and learning from the past's complexities.
+| Rank | Composer         | Key Contributions & Justification |
+|------|------------------|-----------------------------------|
+| 1    | Johann Sebastian Bach | The *composer’s composer*. Master of counterpoint and form. His works are essential for understanding harmony and the foundations of Western music. His *Well-Tempered Clavier* alone is a bible of tonal music. |
+| 2    | Ludwig van Beethoven | Revolutionary in expanding the limits of symphonic structure and expression. His late quartets are some of the most profound musical statements ever made. The transition from the Classical to the Romantic era would be incomplete without him. |
+| 3    | Wolfgang Amadeus Mozart | The purest genius in music history. Mozart’s music transcends technical brilliance—his ability to fuse form and emotional depth, even in the most straightforward pieces, is unmatched. |
+| 4    | Richard Wagner     | His revolutionary harmonic language, particularly through *Tristan und Isolde*, paved the way for modernism. His concept of Gesamtkunstwerk (*total art work*) influenced not only music but also theatre and film. |
+| 5    | Pyotr Ilyich Tchaikovsky | An unparalleled master of melody and emotion. His *Pathetique Symphony* and ballets like *The Nutcracker* and *Swan Lake* demonstrate an unmatched emotional narrative in music. |
+| 6    | Franz Schubert     | Inventor of the German Lied, and his symphonies are some of the finest. Schubert’s melodic gift was extraordinary, and his ability to capture subtle shifts in emotion is breathtaking. |
+| 7    | Johannes Brahms    | Maintained Classical forms while imbuing them with Romantic intensity. His symphonies, concertos, and chamber works are monumental in emotional depth and technical complexity. |
+| 8    | Claude Debussy     | Debussy broke away from traditional tonality, helping to pave the way for 20th-century music. His use of non-traditional scales, harmonies, and impressionistic forms opened up new worlds of sound. |
+| 9    | Igor Stravinsky    | Perhaps the most versatile composer of the 20th century. His *Rite of Spring* alone changed the course of music history. Stravinsky constantly reinvented himself, contributing significantly to neo-classicism, serialism, and modernism. |
+| 10   | Joseph Haydn       | The father of the symphony and the string quartet. Haydn codified and perfected forms that became essential to classical music, and his influence on Beethoven is undeniable. |
+| 11   | Gustav Mahler      | Master of the symphony. His orchestral works are expansive, emotional, and philosophical. Mahler’s symphonies pushed the limits of the genre and had a massive influence on 20th-century composers. |
+| 12   | Frédéric Chopin    | The quintessential Romantic. His piano works are technically brilliant but also introspective and emotionally rich. He elevated the piano to new expressive heights. |
+| 13   | Anton Bruckner     | A titan of symphonic writing. His large-scale symphonies are spiritual and massive in scale. His influence on later composers, especially Mahler, is immense. |
+| 14   | Franz Liszt        | The inventor of the symphonic poem and an unparalleled virtuoso. Liszt’s innovations in piano technique are still felt today, and his forward-thinking harmonies paved the way for Wagner. |
+| 15   | Sergei Rachmaninoff | One of the last great Romantics. His piano concertos and symphonies are lush, expressive, and continue to captivate listeners with their emotional intensity. |
+| 16   | Hector Berlioz     | Pioneer of orchestration. His *Symphonie fantastique* expanded the coloristic possibilities of the orchestra and was crucial to the development of program music. |
+| 17   | Bela Bartók        | A champion of ethnomusicology and one of the first to blend folk music with classical forms. His string quartets and piano works revolutionized rhythm and harmony. |
+| 18   | Antonín Dvořák     | His *New World Symphony* remains one of the most beloved symphonies. Dvořák integrated folk music into classical structures with ease, adding an authentic national voice to classical music. |
+| 19   | George Frideric Handel | His operas, oratorios (*Messiah*), and instrumental music left an indelible mark on Baroque music. Handel’s ability to blend drama and melody is masterful. |
+| 20   | Maurice Ravel      | Ravel’s orchestration and harmonic palette expanded the language of music. His *Boléro* and piano works are iconic, and he was a master of delicate textures and color in music. |
 
-Harold Bloom's "school of resentment" is a fitting addition to this conversation. Bloom criticized movements within academia and culture that he believed focused excessively on grievance and resentment, leading to a revolutionary, almost puritanical impulse to tear down the past without necessarily providing a constructive way forward. The link to the riots and the toppling of monuments is apt: these actions are revolutionary in nature, rejecting the old symbols but also, at times, risking a descent into a purely negative, critical mode that might fail to build or inspire.
+### My Case:
+- **Bach** holds the top spot due to his unparalleled technical mastery and influence on every aspect of Western music. From fugue writing to harmony, he is the root from which much else flows.
+- **Beethoven** follows because of his revolutionary spirit and emotional depth, and for pushing music into new territories.
+- **Mozart** cannot be overlooked for his natural genius and an effortless balance between beauty and complexity.
+- **Wagner**, despite being divisive, transformed opera and harmony in ways that are still echoed in modern film scores and beyond.
+- **Tchaikovsky’s** melodic and emotional mastery places him high, despite not being as harmonically radical as others like Debussy or Stravinsky.
 
-In both Nietzsche and Bloom's critiques, there's an underlying warning: history's power lies not just in its ability to condemn but also in its capacity to elevate, inspire, and offer a sense of continuity. The challenge is to balance these aspects without tipping into what Nietzsche feared—using history solely as a tool for current agendas, stripping it of its broader, more enriching functions.
-
-## Jung vs. Freud
-
-                    1. Chaos
-                            \
-               2. Frenzy -> 4. Uncommunicable -> 5. Algorithms -> 6. Binary
-                            /
-                             3. Energy
-
-### Id 1, 2, 3
-### Ego 4
-### Superego 5, 6 
-
-Carl Jung vs. Sigmund Freud is a classic debate in psychology, often filled with passion and strong opinions. Here's my take:
-
-1. **Sigmund Freud**: Freud's contributions to psychology are monumental. He is the father of psychoanalysis, introducing concepts such as the unconscious mind, defense mechanisms, and the importance of early childhood experiences. Freud's theories on the Oedipus complex, id, ego, and superego have deeply influenced not only psychology but also culture, literature, and art. His work laid the foundation for understanding human behavior, making him indispensable in the history of psychology. However, many of his ideas are now seen as outdated and overly focused on sexuality.
-
-2. **Carl Jung**: Jung expanded on Freud's ideas but took them in a different, and arguably more holistic, direction. He introduced concepts such as the collective unconscious, archetypes, and individuation. Jung's work is profound in exploring the deeper layers of the psyche and connecting psychological experiences with spirituality and mythology. His theories on introversion and extraversion form the basis of modern personality psychology. While Jung's ideas can be seen as more esoteric, they offer a richer, more nuanced understanding of the human mind.
-
-### Ranking:
-
-1. **Freud**: For foundational influence, groundbreaking theories, and establishing psychoanalysis as a field.
-2. **Jung**: For expanding the scope of psychology, introducing enduring concepts like archetypes, and bridging psychology with broader cultural and spiritual dimensions.
-
-### Personal Preference:
-
-I find Jung's work more compelling and applicable in understanding the human psyche in a broader, more integrative way. His ideas on the collective unconscious and archetypes resonate deeply with the complexities of human experience, making him my preferred thinker in this comparison. However, Freud's pioneering work cannot be understated, and his foundational theories are essential to the study of psychology.
-
-### Linear 1, 2, 3
-### Categorical [4](https://www.youtube.com/watch?v=TYAKHLrr51w)
-### Binary 5, 6 
-
-                    1. Error
-                            \
-    2. Fit: Bias-Variance -> 4. Rankings -> 5. Top -> 6. Achievement
-                            /
-                             3. Mean
+I’m curious about your reaction to this—agree, disagree? Let me know!
