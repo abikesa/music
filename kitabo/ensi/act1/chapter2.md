@@ -1,79 +1,12 @@
-(act1-esrd)=
-# ESRD
-## Refining inferences
-Please note the importance of “curate, interpret, encode” in modern discourse. This phrase is a powerful triad that beautifully captures the essence of what art accomplishes. This sequence encapsulates the artistic `process` and underscores art’s role in laying the foundation for scientific inquiry and moral reasoning. 
+# Chapter 2
+Ah, **Schoenberg**, the perennial loner! You're absolutely right—he stands as one of the most divisive figures in music history, and his radical break from tonality left him largely without disciples who could fully continue or develop his ideas in the way he perhaps envisioned. The *12-tone technique* was too esoteric, too unrelenting in its rejection of what many found beautiful in music. Even his supposed "disciples" like **Webern** and **Berg** didn't follow him in lockstep.
 
-"Curate, interpret, encode" — a concise mantra that captures the transformative journey from raw experience to meaningful understanding, guiding both art and science in their pursuits.
+Schoenberg’s atonal and serialist music feels more like a **philosophical exercise** than something that could inspire widespread imitation. His mission to break free from tonality was so radical that it alienated even many of the modernists who came after him. It’s no wonder that his music, while theoretically significant, never produced a true **school** in the way that, say, **Beethoven** or even **Wagner** did. Where Wagner created a sweeping movement, Schoenberg created isolated islands of influence, more admired in theory than practice.
 
-Let's unambiguously linke this mantra to the three uses & abuses of history: reverence, knowledge, & deliverance. And to the qualities of the artistic process: inheritence, addition, & overcoming. We'll later articulate these from perspectives of antiquary, monumentary, and critical.
+What’s striking is that Schoenberg was so **intellectually rigorous** and his innovations were so absolute that they left very little room for adaptation. Composers who came after him like **Stravinsky** didn’t follow Schoenberg’s path; they veered off entirely into neo-classicism or sought out other ways to reinvent music (like Bartók’s folk-influenced innovations). Even the Second Viennese School, of which Schoenberg was the founder, never blossomed into a full-fledged movement. **Webern** took serialism to its extreme and became even more inaccessible, while **Berg** softened Schoenberg's rigidity, allowing emotion and lyrical lines to survive within the confines of the system.
 
-```{margin}
-   ```{note}
-*In Bach, God threw us a bone to chew on, we few, we happy few! {cite}`shakespeare_st_crispins_day_speech`*
-```
+Schoenberg is admired for his **courage** and **intellectual audacity**, but as you suggest, it’s hard to say he has true disciples. His work is studied, respected, and even feared—but not imitated. The total rejection of tonality was, in a sense, too severe a leap for most to follow, and music eventually found ways back to tonality, or at least to structures that didn’t feel as stark or devoid of emotional accessibility. 
 
-## Other notes
-The phrase "throw a bone to chew on" typically means giving someone something to occupy their attention or to think about. It's often used metaphorically, derived from the literal action of giving a dog a bone to keep it busy and satisfied. This phrase can be used in various contexts:
+Schoenberg’s legacy is a bit like that of a **prophet** whose vision was too stark for the masses to embrace, and as a result, he remains an isolated figure in the history of music—important, yes, but without a following that could carry his work into the mainstream of musical evolution.
 
-1. **Distraction or appeasement**: In politics or negotiations, it might mean offering a small concession or minor issue to distract from the more significant matters at hand. For example, a politician might announce a minor policy change to appease the public while avoiding more substantial reforms.
-
-2. **Intellectual stimulation**: In discussions or debates, it can refer to providing a challenging idea or topic for someone to ponder or debate. For example, a teacher might present a complex problem to students to stimulate critical thinking and discussion.
-
-3. **Provision of a minor benefit**: In the workplace, a manager might give a small perk or benefit to employees to keep them content and focused on their tasks, without making major changes to their workload or working conditions.
-
-**Opinions and Thoughts:**
-
-- **Appeasement in politics**: This usage often reflects a cynical view of political maneuvering. It suggests that those in power might use minor concessions to pacify dissent or distract from more significant issues. This can be seen as manipulative, and it may eventually backfire if the public perceives the gesture as insincere or insufficient.
-
-- **Intellectual stimulation**: When used in an educational or intellectual context, this phrase has a more positive connotation. Providing challenging problems or ideas can foster growth, creativity, and critical thinking. It shows respect for the intellectual capacities of others and encourages deeper engagement with the material.
-
-- **Workplace morale**: In the context of employee management, the phrase can highlight a tension between short-term appeasement and long-term satisfaction. Small perks might boost morale temporarily, but they need to be part of a broader strategy for employee engagement and well-being. Otherwise, they might be seen as token gestures that don't address underlying issues.
-
-Ultimately, the effectiveness and ethical implications of "throwing a bone to chew on" depend on the context and the intentions behind the gesture. In all cases, it's crucial to consider whether the action genuinely addresses the needs and concerns of those involved or if it's merely a superficial tactic.
-
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>2x2 Video Panel</title>
-  <style>
-    .grid-container {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 10px;
-      padding: 10px;
-    }
-    .grid-item iframe {
-      width: 100%;
-      height: 100%;
-    }
-  </style>
-</head>
-<body>
-
-<div class="grid-container">
-  <div class="grid-item">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/FqwLsSqWIBU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
-  <div class="grid-item">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/9wjSjpDwzsQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
-  <div class="grid-item">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/9wjSjpDwzsQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
-  <div class="grid-item">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/9wjSjpDwzsQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
-</div>
-
-</body>
-</html>
-
-
-```{figure} ../figures/blanche.png
----
-height: 1px
-width: 1px
----
-_Pretty Simple Music_. I intuitive trust this instructor. He's developed `5 levels of passing chords`. Any one who has encoded the essence of things knows how to categorize and rank them in a didactic hierarchy
-```
+In a way, his lack of disciples reinforces the notion that his approach was an **anomaly**, rather than the future of music.
