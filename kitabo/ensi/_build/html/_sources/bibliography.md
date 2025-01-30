@@ -44,12 +44,12 @@ _Geopolitics: Resources, Needs, Costs, Supply, Demand_. Everyone is talking abou
 
 ## Legends 
 
-<iframe src="pdfs/paullang.pdf" width="200%" height="600px" style="borders:none"></iframe>
+<iframe src="pdfs/paullang.pdf" width="100%" height="1000px" style="borders:none"></iframe>
 
-<iframe src="pdfs/bach.pdf" width="200%" height="600px" style="borders:none"></iframe>
+<iframe src="pdfs/bach.pdf" width="100%" height="1000px" style="borders:none"></iframe>
 
-<iframe src="pdfs/handel.pdf" width="200%" height="600px" style="borders:none"></iframe>
+<iframe src="pdfs/handel.pdf" width="100%" height="1000px" style="borders:none"></iframe>
 
-<iframe src="pdfs/amadeus.pdf" width="200%" height="600px" style="borders:none"></iframe>
+<iframe src="pdfs/amadeus.pdf" width="100%" height="1000px" style="borders:none"></iframe>
 
 
